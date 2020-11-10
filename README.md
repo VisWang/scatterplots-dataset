@@ -3,5 +3,7 @@ A dataset for studying the effect of data size and pattern salience on general u
 
 ## File Structure
 ./raw_data (csv): This folder includes the raw .csv files we used to generate the test dataset. All the files in this folder are downloaded from Kaggle (https://www.kaggle.com/).
+
 ./processed_data (npy): This folder includes the processed .npy files. Each file contains the two dimensions we extracted from the raw .csv files.
+
 ./scatterplots (png): This folder includes all scatterplots we used for the experiment.
