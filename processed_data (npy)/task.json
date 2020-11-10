@@ -1,0 +1,1871 @@
+{
+"T1":[
+{"index": "02_T1_L_100", "question": "Which situation about Ganhadores_Quina and Ganhadores_Quadra lies outside the others the most?", "A": "A. 95.0 and 6071.0", "B": "B. 205.0 and 12026.0", "C": "C. 284.0 and 17901.0", "D": "D. 32.0 and 2830.0", "Answer": "3"}, {"index": "02_T1_M_100", "question": "Which situation about Ganhadores_Quina and Ganhadores_Quadra lies outside the others the most?", "A": "A. 290.0 and 20863.0", "B": "B. 266.0 and 14324.0", "C": "C. 84.0 and 4870.0", "D": "D. 115.0 and 10276.0", "Answer": "1"}, {"index": "02_T1_H_100", "question": "Which situation about Ganhadores_Quina and Ganhadores_Quadra lies outside the others the most?", "A": "A. 161.0 and 10308.0", "B": "B. 44.0 and 3962.0", "C": "C. 206.0 and 14457.0", "D": "D. 512.0 and 21452.0", "Answer": "4"}, {"index": "02_T1_L_300", "question": "Which situation about Ganhadores_Quina and Ganhadores_Quadra lies outside the others the most?", "A": "A. 21.0 and 1733.0", "B": "B. 497.0 and 18964.0", "C": "C. 140.0 and 9619.0", "D": "D. 234.0 and 19229.0", "Answer": "1"}, {"index": "02_T1_M_300", "question": "Which situation about Ganhadores_Quina and Ganhadores_Quadra lies outside the others the most?", "A": "A. 299.0 and 18464.0", "B": "B. 241.0 and 15457.0", "C": "C. 457.0 and 24931.0", "D": "D. 71.0 and 5884.0", "Answer": "3"}, {"index": "02_T1_H_300", "question": "Which situation about Ganhadores_Quina and Ganhadores_Quadra lies outside the others the most?", "A": "A. 457.0 and 24931.0", "B": "B. 18.0 and 1548.0", "C": "C. 55.0 and 4462.0", "D": "D. 261.0 and 16822.0", "Answer": "1"}, {"index": "02_T1_L_1k", "question": "Which situation about Ganhadores_Quina and Ganhadores_Quadra lies outside the others the most?", "A": "A. 50.0 and 5258.0", "B": "B. 9.0 and 965.0", "C": "C. 13.0 and 1494.0", "D": "D. 74.0 and 6043.0", "Answer": "2"}, {"index": "02_T1_M_1k", "question": "Which situation about Ganhadores_Quina and Ganhadores_Quadra lies outside the others the most?", "A": "A. 97.0 and 6367.0", "B": "B. 463.0 and 5301.0", "C": "C. 366.0 and 24849.0", "D": "D. 20.0 and 1184.0", "Answer": "2"}, {"index": "02_T1_H_1k", "question": "Which situation about Ganhadores_Quina and Ganhadores_Quadra lies outside the others the most?", "A": "A. 6.0 and 683.0", "B": "B. 12.0 and 1214.0", "C": "C. 81.0 and 4636.0", "D": "D. 16.0 and 1574.0", "Answer": "1"},
+{"index": "03_T1_L_100", "question": "Which situation about Grade Point Average and Chance of admit lies outside the others the most?", "A": "A. 8.49 and 0.86", "B": "B. 7.6 and 0.46", "C": "C. 7.69 and 0.71", "D": "D. 9.6 and 0.94", "Answer": "4"}, {"index": "03_T1_M_100", "question": "Which situation about Grade Point Average and Chance of admit lies outside the others the most?", "A": "A. 8.3 and 0.76", "B": "B. 9.82 and 0.96", "C": "C. 7.36 and 0.46", "D": "D. 9.26 and 0.59", "Answer": "2"}, {"index": "03_T1_H_100", "question": "Which situation about Grade Point Average and Chance of admit lies outside the others the most?", "A": "A. 9.98 and 0.49", "B": "B. 8.96 and 0.55", "C": "C. 6.8 and 0.36", "D": "D. 7.65 and 0.97", "Answer": "3"}, {"index": "03_T1_L_300", "question": "Which situation about Grade Point Average and Chance of admit lies outside the others the most?", "A": "A. 9.82 and 0.96", "B": "B. 7.56 and 0.98", "C": "C. 8.24 and 0.86", "D": "D. 7.92 and 0.87", "Answer": "2"}, {"index": "03_T1_M_300", "question": "Which situation about Grade Point Average and Chance of admit lies outside the others the most?", "A": "A. 8.0 and 0.77", "B": "B. 6.8 and 0.36", "C": "C. 7.21 and 0.84", "D": "D. 7.31 and 0.49", "Answer": "2"}, {"index": "03_T1_H_300", "question": "Which situation about Grade Point Average and Chance of admit lies outside the others the most?", "A": "A. 8.1 and 0.92", "B": "B. 9.67 and 0.93", "C": "C. 7.21 and 0.45", "D": "D. 6.8 and 0.36", "Answer": "4"}, {"index": "03_T1_L_1k", "question": "Which situation about Grade Point Average and Chance of admit lies outside the others the most?", "A": "A. 8.13 and 0.77", "B": "B. 7.55 and 0.94", "C": "C. 8.22 and 0.72", "D": "D. 9.85 and 0.42", "Answer": "4"}, {"index": "03_T1_M_1k", "question": "Which situation about Grade Point Average and Chance of admit lies outside the others the most?", "A": "A. 9.14 and 0.9", "B": "B. 10.0 and 0.48", "C": "C. 6.8 and 0.36", "D": "D. 8.93 and 0.99", "Answer": "3"}, {"index": "03_T1_H_1k", "question": "Which situation about Grade Point Average and Chance of admit lies outside the others the most?", "A": "A. 6.8 and 0.36", "B": "B. 8.8 and 0.74", "C": "C. 7.08 and 1.0", "D": "D. 9.27 and 0.76", "Answer": "1"},
+{
+    "index": "04_T1_L_100",
+    "question": "Which situation about Temperature and Bike demand lies outside the others the most?",
+    "A": "A. 30.3 and 604.0",
+    "B": "B. 30.3 and 13.0",
+    "C": "C. 34.85 and 712.0",
+    "D": "D. 22.73 and 44.0",
+    "Answer": "3"
+},
+
+{
+    "index": "04_T1_M_100",
+    "question": "Which situation about Temperature and Bike demand lies outside the others the most?",
+    "A": "A. 12.12 and 191.0",
+    "B": "B. 33.34 and 363.0",
+    "C": "C. 16.66 and 622.0",
+    "D": "D. 32.58 and 869.0",
+    "Answer": "4"
+},
+{
+    "index": "04_T1_H_100",
+    "question": "Which situation about Temperature and Bike demand lies outside the others the most?",
+    "A": "A. 24.24 and 140.0",
+    "B": "B. 25.0 and 427.0",
+    "C": "C. 33.34 and 569.0",
+    "D": "D. 37.88 and 810.0",
+    "Answer": "4"
+},
+{
+    "index": "04_T1_L_300",
+    "question": "Which situation about Temperature and Bike demand lies outside the others the most?",
+    "A": "A. 29.55 and 774.0",
+    "B": "B. 35.6 and 835.0",
+    "C": "C. 22.73 and 55.0",
+    "D": "D. 12.88 and 4.0",
+    "Answer": "2"
+},
+{
+    "index": "04_T1_M_300",
+    "question": "Which situation about Temperature and Bike demand lies outside the others the most?",
+    "A": "A. 31.06 and 871.0",
+    "B": "B. 21.21 and 518.0",
+    "C": "C. 30.3 and 686.0",
+    "D": "D. 8.34 and 164.0",
+    "Answer": "1"
+},
+{
+    "index": "04_T1_H_300",
+    "question": "Which situation about Temperature and Bike demand lies outside the others the most?",
+    "A": "A. 31.06 and 390.0",
+    "B": "B. 38.63 and 505.0",
+    "C": "C. 28.79 and 694.0",
+    "D": "D. 31.06 and 968.0",
+    "Answer": "4"
+},
+{
+    "index": "04_T1_L_1k",
+    "question": "Which situation about Temperature and Bike demand lies outside the others the most?",
+    "A": "A. 2.27 and 2.0",
+    "B": "B. 19.7 and 157.0",
+    "C": "C. 33.34 and 68.0",
+    "D": "D. 23.48 and 197.0",
+    "Answer": "1"
+},
+{
+    "index": "04_T1_M_1k",
+    "question": "Which situation about Temperature and Bike demand lies outside the others the most?",
+    "A": "A. 9.09 and 275.0",
+    "B": "B. 21.21 and 182.0",
+    "C": "C. 31.06 and 977.0",
+    "D": "D. 35.6 and 183.0",
+    "Answer": "3"
+},
+{
+    "index": "04_T1_H_1k",
+    "question": "Which situation about Temperature and Bike demand lies outside the others the most?",
+    "A": "A. 31.06 and 977.0",
+    "B": "B. 36.37 and 386.0",
+    "C": "C. 31.82 and 26.0",
+    "D": "D. 37.88 and 810.0",
+    "Answer": "1"
+},
+{
+    "index": "05_T1_L_100",
+    "question": "Which situation about Average Price and Total Volumn lies outside the others the most?",
+    "A": "A. 0.97 and 2.62",
+    "B": "B. 1.6 and 4.29",
+    "C": "C. 1.3 and 4.55",
+    "D": "D. 0.97 and 3.18",
+    "Answer": "2"
+},
+{
+    "index": "05_T1_M_100",
+    "question": "Which situation about Average Price and Total Volumn lies outside the others the most?",
+    "A": "A. 0.81 and 6.73",
+    "B": "B. 1.22 and 2.12",
+    "C": "C. 1.25 and 2.03",
+    "D": "D. 0.7 and 8.04",
+    "Answer": "4"
+},
+{
+    "index": "05_T1_H_100",
+    "question": "Which situation about Average Price and Total Volumn lies outside the others the most?",
+    "A": "A. 1.21 and 5.5",
+    "B": "B. 0.85 and 7.45",
+    "C": "C. 0.69 and 9.72",
+    "D": "D. 0.79 and 7.81",
+    "Answer": "3"
+},
+{
+    "index": "05_T1_L_300",
+    "question": "Which situation about Average Price and Total Volumn lies outside the others the most?",
+    "A": "A. 0.7 and 8.04",
+    "B": "B. 0.76 and 3.72",
+    "C": "C. 1.4 and 4.13",
+    "D": "D. 0.74 and 6.35",
+    "Answer": "1"
+},
+{
+    "index": "05_T1_M_300",
+    "question": "Which situation about Average Price and Total Volumn lies outside the others the most?",
+    "A": "A. 0.85 and 9.03",
+    "B": "B. 0.7 and 8.04",
+    "C": "C. 0.74 and 3.17",
+    "D": "D. 1.39 and 3.5",
+    "Answer": "1"
+},
+{
+    "index": "05_T1_H_300",
+    "question": "Which situation about Average Price and Total Volumn lies outside the others the most?",
+    "A": "A. 1.02 and 2.61",
+    "B": "B. 0.84 and 8.36",
+    "C": "C. 0.93 and 7.67",
+    "D": "D. 0.69 and 9.72",
+    "Answer": "4"
+},
+{
+    "index": "05_T1_L_1k",
+    "question": "Which situation about Average Price and Total Volumn lies outside the others the most?",
+    "A": "A. 0.62 and 3.86",
+    "B": "B. 0.85 and 9.03",
+    "C": "C. 1.2 and 3.45",
+    "D": "D. 0.76 and 8.15",
+    "Answer": "2"
+},
+{
+    "index": "05_T1_M_1k",
+    "question": "Which situation about Average Price and Total Volumn lies outside the others the most?",
+    "A": "A. 0.78 and 3.55",
+    "B": "B. 0.46 and 2.2",
+    "C": "C. 0.69 and 9.72",
+    "D": "D. 0.92 and 4.4",
+    "Answer": "3"
+},
+{
+    "index": "05_T1_H_1k",
+    "question": "Which situation about Average Price and Total Volumn lies outside the others the most?",
+    "A": "A. 0.69 and 9.72",
+    "B": "B. 0.98 and 2.28",
+    "C": "C. 0.64 and 3.63",
+    "D": "D. 0.75 and 8.71",
+    "Answer": "1"
+},
+{"index": "06_T1_L_100", "question": "Which situation about Probability of HOME victory and Probability of AWAY victory lies outside the others the most?", "A": "A. 0.9 and 0.68", "B": "B. 0.54 and 0.46", "C": "C. 0.73 and 0.29", "D": "D. 0.71 and 0.51", "Answer": "1"},
+{"index": "06_T1_M_100", "question": "Which situation about Probability of HOME victory and Probability of AWAY victory lies outside the others the most?", "A": "A. 0.39 and 0.17", "B": "B. 0.73 and 0.66", "C": "C. 0.24 and 0.12", "D": "D. 0.75 and 0.39", "Answer": "3"}, 
+{"index": "06_T1_H_100", "question": "Which situation about Probability of HOME victory and Probability of AWAY victory lies outside the others the most?", "A": "A. 0.73 and 0.49", "B": "B. 0.76 and 0.32", "C": "C. 0.88 and 0.66", "D": "D. 0.15 and 0.17", "Answer": "4"}, 
+{"index": "06_T1_L_300", "question": "Which situation about Probability of HOME victory and Probability of AWAY victory lies outside the others the most?", "A": "A. 0.64 and 0.14", "B": "B. 0.51 and 0.17", "C": "C. 0.68 and 0.48", "D": "D. 0.66 and 0.07", "Answer": "4"}, 
+{"index": "06_T1_M_300", "question": "Which situation about Probability of HOME victory and Probability of AWAY victory lies outside the others the most?", "A": "A. 0.83 and 0.51", "B": "B. 0.29 and 0.29", "C": "C. 0.49 and 0.2", "D": "D. 0.59 and 0.02", "Answer": "4"},
+{"index": "06_T1_H_300", "question": "Which situation about Probability of HOME victory and Probability of AWAY victory lies outside the others the most?", "A": "A. 0.9 and 0.71", "B": "B. 0.95 and 0.8", "C": "C. 0.61 and 0.24", "D": "D. 0.29 and 0.29", "Answer": "2"}, 
+{"index": "06_T1_L_1k", "question": "Which situation about Probability of HOME victory and Probability of AWAY victory lies outside the others the most?", "A": "A. 0.5 and 0.52", "B": "B. 0.37 and 0.46", "C": "C. 0.8 and 0.44", "D": "D. 0.71 and 0.63", "Answer": "2"}, 
+{"index": "06_T1_M_1k", "question": "Which situation about Probability of HOME victory and Probability of AWAY victory lies outside the others the most?", "A": "A. 0.07 and 0.12", "B": "B. 0.54 and 0.54", "C": "C. 0.68 and 0.41", "D": "D. 0.27 and 0.32", "Answer": "1"}, 
+{"index": "06_T1_H_1k", "question": "Which situation about Probability of HOME victory and Probability of AWAY victory lies outside the others the most?", "A": "A. 0.65 and 0.14", "B": "B. 0.76 and 0.17", "C": "C. 0.68 and 0.37", "D": "D. 0.07 and 0.12", "Answer": "4"},
+{
+    "index": "07_T1_L_100",
+    "question": "Which situation about Humidity and PM 2.5 lies outside the others the most?",
+    "A": "A. 78.0 and 35.93",
+    "B": "B. 93.57 and 12.81",
+    "C": "C. 72.02 and 16.52",
+    "D": "D. 62.3 and 51.99",
+    "Answer": "2"
+},
+{
+    "index": "07_T1_M_100",
+    "question": "Which situation about Humidity and PM 2.5 lies outside the others the most?",
+    "A": "A. 69.12 and 62.45",
+    "B": "B. 88.08 and 21.13",
+    "C": "C. 73.94 and 35.72",
+    "D": "D. 82.0 and 85.52",
+    "Answer": "4"
+},
+{
+    "index": "07_T1_H_100",
+    "question": "Which situation about Humidity and PM 2.5 lies outside the others the most?",
+    "A": "A. 72.0 and 6.75",
+    "B": "B. 43.93 and 10.57",
+    "C": "C. 42.57 and 88.5",
+    "D": "D. 86.83 and 73.25",
+    "Answer": "3"
+},
+{
+    "index": "07_T1_L_300",
+    "question": "Which situation about Humidity and PM 2.5 lies outside the others the most?",
+    "A": "A. 90.0 and 19.9",
+    "B": "B. 77.85 and 11.33",
+    "C": "C. 77.14 and 86.47",
+    "D": "D. 77.16 and 11.96",
+    "Answer": "3"
+},
+{
+    "index": "07_T1_M_300",
+    "question": "Which situation about Humidity and PM 2.5 lies outside the others the most?",
+    "A": "A. 47.44 and 80.81",
+    "B": "B. 42.37 and 20.71",
+    "C": "C. 98.76 and 62.83",
+    "D": "D. 56.01 and 10.3",
+    "Answer": "1"
+},
+{
+    "index": "07_T1_H_300",
+    "question": "Which situation about Humidity and PM 2.5 lies outside the others the most?",
+    "A": "A. 87.75 and 7.5",
+    "B": "B. 89.07 and 98.66",
+    "C": "C. 75.8 and 37.86",
+    "D": "D. 43.36 and 51.71",
+    "Answer": "2"
+},
+{
+    "index": "07_T1_L_1k",
+    "question": "Which situation about Humidity and PM 2.5 lies outside the others the most?",
+    "A": "A. 61.08 and 86.51",
+    "B": "B. 37.02 and 28.73",
+    "C": "C. 64.0 and 58.0",
+    "D": "D. 91.71 and 33.16",
+    "Answer": "2"
+},
+{
+    "index": "07_T1_M_1k",
+    "question": "Which situation about Humidity and PM 2.5 lies outside the others the most?",
+    "A": "A. 94.05 and 73.53",
+    "B": "B. 43.2 and 53.33",
+    "C": "C. 55.65 and 21.87",
+    "D": "D. 89.11 and 30.77",
+    "Answer": "2"
+},
+{
+    "index": "07_T1_H_1k",
+    "question": "Which situation about Humidity and PM 2.5 lies outside the others the most?",
+    "A": "A. 42.57 and 88.5",
+    "B": "B. 89.07 and 98.83",
+    "C": "C. 51.75 and 14.96",
+    "D": "D. 86.96 and 11.28",
+    "Answer": "2"
+},
+{"index": "16_T1_L_100", "question": "Which situation about Value of PM 10 and Value of CO_2 lies outside the others the most?", "A": "A. 238.0 and 2.27", "B": "B. 205.5 and 1.6", "C": "C. 37.7 and 0.68", "D": "D. 57.2 and 0.74", "Answer": "1"}, 
+{"index": "16_T1_M_100", "question": "Which situation about Value of PM 10 and Value of CO_2 lies outside the others the most?", "A": "A. 299.7 and 2.43", "B": "B. 43.8 and 0.54", "C": "C. 240.2 and 2.09", "D": "D. 167.6 and 1.72", "Answer": "1"},
+{"index": "16_T1_H_100", "question": "Which situation about Value of PM 10 and Value of CO_2 lies outside the others the most?", "A": "A. 153.2 and 1.75", "B": "B. 196.7 and 2.79", "C": "C. 258.5 and 1.59", "D": "D. 40.7 and 0.71", "Answer": "3"}, 
+{"index": "16_T1_L_300", "question": "Which situation about Value of PM 10 and Value of CO_2 lies outside the others the most?", "A": "A. 85.4 and 0.46", "B": "B. 14.3 and 0.4", "C": "C. 121.5 and 1.8", "D": "D. 164.7 and 1.9", "Answer": "2"}, 
+{"index": "16_T1_M_300", "question": "Which situation about Value of PM 10 and Value of CO_2 lies outside the others the most?", "A": "A. 23.5 and 0.58", "B": "B. 272.0 and 2.36", "C": "C. 70.2 and 0.99", "D": "D. 1.8 and 1.04", "Answer": "4"}, 
+{"index": "16_T1_H_300", "question": "Which situation about Value of PM 10 and Value of CO_2 lies outside the others the most?", "A": "A. 298.2 and 1.55", "B": "B. 9.3 and 1.21", "C": "C. 21.1 and 0.73", "D": "D. 114.9 and 1.02", "Answer": "1"}, 
+{"index": "16_T1_L_1k", "question": "Which situation about Value of PM 10 and Value of CO_2 lies outside the others the most?", "A": "A. 111.3 and 1.09", "B": "B. 224.7 and 1.73", "C": "C. 94.2 and 0.82", "D": "D. 38.3 and 0.87", "Answer": "2"}, 
+{"index": "16_T1_M_1k", "question": "Which situation about Value of PM 10 and Value of CO_2 lies outside the others the most?", "A": "A. 0.0 and 0.0", "B": "B. 13.3 and 0.44", "C": "C. 290.7 and 3.31", "D": "D. 55.6 and 1.06", "Answer": "1"}, 
+{"index": "16_T1_H_1k", "question": "Which situation about Value of PM 10 and Value of CO_2 lies outside the others the most?", "A": "A. 0.8 and 0.42", "B": "B. 44.9 and 3.47", "C": "C. 77.8 and 0.79", "D": "D. 9.9 and 0.82", "Answer": "1"},
+{"index": "17_T1_L_100", "question": "Which situation about Reading Score and Math Score lies outside the others the most?", "A": "A. 64.0 and 59.0", "B": "B. 100.0 and 100.0", "C": "C. 76.0 and 78.0", "D": "D. 48.0 and 54.0", "Answer": "2"},
+{"index": "17_T1_M_100", "question": "Which situation about Reading Score and Math Score lies outside the others the most?", "A": "A. 42.0 and 39.0", "B": "B. 36.0 and 34.0", "C": "C. 72.0 and 74.0", "D": "D. 10.0 and 17.0", "Answer": "4"}, 
+{"index": "17_T1_H_100", "question": "Which situation about Reading Score and Math Score lies outside the others the most?", "A": "A. 43.0 and 43.0", "B": "B. 55.0 and 54.0", "C": "C. 5.0 and 21.0", "D": "D. 27.0 and 38.0", "Answer": "3"}, 
+{"index": "17_T1_L_300", "question": "Which situation about Reading Score and Math Score lies outside the others the most?", "A": "A. 31.0 and 34.0", "B": "B. 82.0 and 82.0", "C": "C. 78.0 and 85.0", "D": "D. 58.0 and 63.0", "Answer": "1"}, 
+{"index": "17_T1_M_300", "question": "Which situation about Reading Score and Math Score lies outside the others the most?", "A": "A. 19.0 and 23.0", "B": "B. 36.0 and 44.0", "C": "C. 30.0 and 29.0", "D": "D. 68.0 and 58.0", "Answer": "1"}, 
+{"index": "17_T1_H_300", "question": "Which situation about Reading Score and Math Score lies outside the others the most?", "A": "A. 32.0 and 34.0", "B": "B. 55.0 and 65.0", "C": "C. 100.0 and 100.0", "D": "D. 10.0 and 17.0", "Answer": "4"}, 
+{"index": "17_T1_L_1k", "question": "Which situation about Reading Score and Math Score lies outside the others the most?", "A": "A. 71.0 and 74.0", "B": "B. 62.0 and 77.0", "C": "C. 19.0 and 20.0", "D": "D. 46.0 and 48.0", "Answer": "3"}, 
+{"index": "17_T1_M_1k", "question": "Which situation about Reading Score and Math Score lies outside the others the most?", "A": "A. 75.0 and 91.0", "B": "B. 66.0 and 78.0", "C": "C. 10.0 and 17.0", "D": "D. 94.0 and 88.0", "Answer": "3"}, 
+{"index": "17_T1_H_1k", "question": "Which situation about Reading Score and Math Score lies outside the others the most?", "A": "A. 60.0 and 60.0", "B": "B. 26.0 and 26.0", "C": "C. 70.0 and 85.0", "D": "D. 5.0 and 21.0", "Answer": "4"},
+{"index": "20_T1_L_100", "question": "Which situation about Temperature and Relative Humidity lies outside the others the most?", "A": "A. 16.06 and 45.0", "B": "B. 24.13 and 38.0", "C": "C. 26.82 and 15.0", "D": "D. 8.99 and 75.0", "Answer": "3"}, 
+{"index": "20_T1_M_100", "question": "Which situation about Temperature and Relative Humidity lies outside the others the most?", "A": "A. 4.6 and 21.0", "B": "B. 19.99 and 29.0", "C": "C. 18.54 and 44.0", "D": "D. 20.7 and 69.0", "Answer": "1"}, 
+{"index": "20_T1_H_100", "question": "Which situation about Temperature and Relative Humidity lies outside the others the most?", "A": "A. 3.86 and 22.0", "B": "B. 5.2 and 100.0", "C": "C. 17.65 and 48.0", "D": "D. 12.37 and 32.0", "Answer": "2"}, 
+{"index": "20_T1_L_300", "question": "Which situation about Temperature and Relative Humidity lies outside the others the most?", "A": "A. 4.6 and 21.0", "B": "B. 12.8 and 64.0", "C": "C. 15.7 and 63.0", "D": "D. 8.06 and 72.0", "Answer": "1"}, 
+{"index": "20_T1_M_300", "question": "Which situation about Temperature and Relative Humidity lies outside the others the most?", "A": "A. 11.6 and 30.0", "B": "B. 26.64 and 33.0", "C": "C. 27.54 and 25.0", "D": "D. 3.17 and 23.0", "Answer": "4"}, 
+{"index": "20_T1_H_300", "question": "Which situation about Temperature and Relative Humidity lies outside the others the most?", "A": "A. 14.41 and 81.0", "B": "B. 4.03 and 27.0", "C": "C. 25.38 and 39.0", "D": "D. 5.2 and 100.0", "Answer": "4"}, 
+{"index": "20_T1_L_1k", "question": "Which situation about Temperature and Relative Humidity lies outside the others the most?", "A": "A. 19.4 and 48.0", "B": "B. 19.07 and 26.0", "C": "C. 3.53 and 20.0", "D": "D. 20.8 and 17.0", "Answer": "3"}, 
+{"index": "20_T1_M_1k", "question": "Which situation about Temperature and Relative Humidity lies outside the others the most?", "A": "A. 7.24 and 70.0", "B": "B. 19.71 and 16.0", "C": "C. 15.65 and 20.0", "D": "D. 5.43 and 16.0", "Answer": "4"}, 
+{"index": "20_T1_H_1k", "question": "Which situation about Temperature and Relative Humidity lies outside the others the most?", "A": "A. 17.4 and 56.0", "B": "B. 4.01 and 20.0", "C": "C. 15.2 and 19.0", "D": "D. 11.4 and 99.0", "Answer": "2"},
+{"index": "23_T1_L_100", "question": "Which situation about Sales and Number of customers lies outside the others the most?", "A": "A. 12212.0 and 1186.0", "B": "B. 7770.0 and 769.0", "C": "C. 10616.0 and 1487.0", "D": "D. 2807.0 and 324.0", "Answer": "1"}, 
+{"index": "23_T1_M_100", "question": "Which situation about Sales and Number of customers lies outside the others the most?", "A": "A. 11447.0 and 900.0", "B": "B. 3063.0 and 421.0", "C": "C. 14102.0 and 1335.0", "D": "D. 3474.0 and 394.0", "Answer": "3"}, 
+{"index": "23_T1_H_100", "question": "Which situation about Sales and Number of customers lies outside the others the most?", "A": "A. 2288.0 and 301.0", "B": "B. 4980.0 and 534.0", "C": "C. 11298.0 and 1113.0", "D": "D. 14160.0 and 1251.0", "Answer": "4"}, 
+{"index": "23_T1_L_300", "question": "Which situation about Sales and Number of customers lies outside the others the most?", "A": "A. 13148.0 and 1473.0", "B": "B. 2561.0 and 385.0", "C": "C. 2003.0 and 314.0", "D": "D. 4638.0 and 438.0", "Answer": "3"}, 
+{"index": "23_T1_M_300", "question": "Which situation about Sales and Number of customers lies outside the others the most?", "A": "A. 6668.0 and 1804.0", "B": "B. 14160.0 and 1251.0", "C": "C. 4522.0 and 463.0", "D": "D. 8407.0 and 1118.0", "Answer": "1"}, 
+{"index": "23_T1_H_300", "question": "Which situation about Sales and Number of customers lies outside the others the most?", "A": "A. 14379.0 and 1263.0", "B": "B. 12488.0 and 1228.0", "C": "C. 2085.0 and 299.0", "D": "D. 5411.0 and 710.0", "Answer": "1"}, 
+{"index": "23_T1_L_1k", "question": "Which situation about Sales and Number of customers lies outside the others the most?", "A": "A. 5541.0 and 434.0", "B": "B. 11909.0 and 1525.0", "C": "C. 7339.0 and 1378.0", "D": "D. 7863.0 and 909.0", "Answer": "3"}, 
+{"index": "23_T1_M_1k", "question": "Which situation about Sales and Number of customers lies outside the others the most?", "A": "A. 8004.0 and 489.0", "B": "B. 6419.0 and 1206.0", "C": "C. 7464.0 and 566.0", "D": "D. 6450.0 and 1667.0", "Answer": "4"}, 
+{"index": "23_T1_H_1k", "question": "Which situation about Sales and Number of customers lies outside the others the most?", "A": "A. 4115.0 and 1339.0", "B": "B. 8836.0 and 1028.0", "C": "C. 13842.0 and 1692.0", "D": "D. 8043.0 and 1896.0", "Answer": "1"},
+{"index": "24_T1_L_100", "question": "Which situation about White Rating and Black Rating lies outside the others the most?", "A": "A. 1795.0 and 1618.0", "B": "B. 2291.0 and 2342.0", "C": "C. 1937.0 and 1959.0", "D": "D. 1779.0 and 1703.0", "Answer": "2"}, 
+{"index": "24_T1_M_100", "question": "Which situation about White Rating and Black Rating lies outside the others the most?", "A": "A. 1538.0 and 1556.0", "B": "B. 1669.0 and 1149.0", "C": "C. 2153.0 and 2474.0", "D": "D. 1605.0 and 2114.0", "Answer": "3"}, 
+{"index": "24_T1_H_100", "question": "Which situation about White Rating and Black Rating lies outside the others the most?", "A": "A. 2293.0 and 2282.0", "B": "B. 1692.0 and 1678.0", "C": "C. 1016.0 and 2621.0", "D": "D. 2103.0 and 2194.0", "Answer": "3"}, 
+{"index": "24_T1_L_300", "question": "Which situation about White Rating and Black Rating lies outside the others the most?", "A": "A. 1778.0 and 2264.0", "B": "B. 1097.0 and 1171.0", "C": "C. 1503.0 and 1375.0", "D": "D. 1004.0 and 999.0", "Answer": "4"}, 
+{"index": "24_T1_M_300", "question": "Which situation about White Rating and Black Rating lies outside the others the most?", "A": "A. 2189.0 and 1595.0", "B": "B. 1352.0 and 1408.0", "C": "C. 1015.0 and 2305.0", "D": "D. 982.0 and 1700.0", "Answer": "3"}, 
+{"index": "24_T1_H_300", "question": "Which situation about White Rating and Black Rating lies outside the others the most?", "A": "A. 1766.0 and 1386.0", "B": "B. 2700.0 and 1486.0", "C": "C. 1550.0 and 1531.0", "D": "D. 1016.0 and 2621.0", "Answer": "4"}, 
+{"index": "24_T1_L_1k", "question": "Which situation about White Rating and Black Rating lies outside the others the most?", "A": "A. 1426.0 and 1461.0", "B": "B. 2621.0 and 1545.0", "C": "C. 1228.0 and 1766.0", "D": "D. 1482.0 and 1508.0", "Answer": "2"}, 
+{"index": "24_T1_M_1k", "question": "Which situation about White Rating and Black Rating lies outside the others the most?", "A": "A. 1921.0 and 1815.0", "B": "B. 2443.0 and 978.0", "C": "C. 2023.0 and 1640.0", "D": "D. 2306.0 and 2438.0", "Answer": "2"}, 
+{"index": "24_T1_H_1k", "question": "Which situation about White Rating and Black Rating lies outside the others the most?", "A": "A. 1873.0 and 1500.0", "B": "B. 1981.0 and 1109.0", "C": "C. 2419.0 and 1157.0", "D": "D. 1016.0 and 2621.0", "Answer": "4"},
+{"index": "25_T1_L_100", "question": "Which situation about Median Income and Median House Value lies outside the others the most?", "A": "A. 5.42 and 204100.0", "B": "B. 2.07 and 113000.0", "C": "C. 3.24 and 190700.0", "D": "D. 7.58 and 426900.0", "Answer": "4"}, 
+{"index": "25_T1_M_100", "question": "Which situation about Median Income and Median House Value lies outside the others the most?", "A": "A. 6.12 and 375000.0", "B": "B. 8.11 and 446600.0", "C": "C. 7.15 and 274000.0", "D": "D. 4.78 and 246400.0", "Answer": "2"}, 
+{"index": "25_T1_H_100", "question": "Which situation about Median Income and Median House Value lies outside the others the most?", "A": "A. 7.98 and 473500.0", "B": "B. 1.6 and 58500.0", "C": "C. 3.15 and 362500.0", "D": "D. 4.0 and 278500.0", "Answer": "1"}, 
+{"index": "25_T1_L_300", "question": "Which situation about Median Income and Median House Value lies outside the others the most?", "A": "A. 2.16 and 450000.0", "B": "B. 2.09 and 104900.0", "C": "C. 3.45 and 263900.0", "D": "D. 2.24 and 72300.0", "Answer": "1"}, 
+{"index": "25_T1_M_300", "question": "Which situation about Median Income and Median House Value lies outside the others the most?", "A": "A. 3.94 and 406900.0", "B": "B. 5.83 and 362400.0", "C": "C. 6.32 and 480800.0", "D": "D. 3.24 and 268000.0", "Answer": "3"}, 
+{"index": "25_T1_H_300", "question": "Which situation about Median Income and Median House Value lies outside the others the most?", "A": "A. 1.26 and 42700.0", "B": "B. 5.06 and 240800.0", "C": "C. 7.12 and 469900.0", "D": "D. 0.5 and 55000.0", "Answer": "3"}, 
+{"index": "25_T1_L_1k", "question": "Which situation about Median Income and Median House Value lies outside the others the most?", "A": "A. 5.03 and 106200.0", "B": "B. 6.25 and 366700.0", "C": "C. 3.93 and 93800.0", "D": "D. 1.33 and 42500.0", "Answer": "4"}, 
+{"index": "25_T1_M_1k", "question": "Which situation about Median Income and Median House Value lies outside the others the most?", "A": "A. 1.88 and 47800.0", "B": "B. 0.93 and 36600.0", "C": "C. 3.71 and 62000.0", "D": "D. 2.67 and 22500.0", "Answer": "4"}, 
+{"index": "25_T1_H_1k", "question": "Which situation about Median Income and Median House Value lies outside the others the most?", "A": "A. 4.02 and 32500.0", "B": "B. 1.54 and 39400.0", "C": "C. 2.1 and 14999.0", "D": "D. 2.8 and 189900.0", "Answer": "3"},
+{"index": "26_T1_L_100", "question": "Which situation about Monthly Charges and Tenure lies outside the others the most?", "A": "A. 48.95 and 39.0", "B": "B. 74.65 and 9.0", "C": "C. 80.5 and 6.0", "D": "D. 75.5 and 27.0", "Answer": "1"}, 
+{"index": "26_T1_M_100", "question": "Which situation about Monthly Charges and Tenure lies outside the others the most?", "A": "A. 100.2 and 68.0", "B": "B. 19.85 and 1.0", "C": "C. 82.0 and 18.0", "D": "D. 99.95 and 6.0", "Answer": "2"}, 
+{"index": "26_T1_H_100", "question": "Which situation about Monthly Charges and Tenure lies outside the others the most?", "A": "A. 89.5 and 25.0", "B": "B. 20.3 and 1.0", "C": "C. 45.25 and 70.0", "D": "D. 105.2 and 42.0", "Answer": "3"}, 
+{"index": "26_T1_L_300", "question": "Which situation about Monthly Charges and Tenure lies outside the others the most?", "A": "A. 115.55 and 70.0", "B": "B. 85.2 and 7.0", "C": "C. 98.35 and 26.0", "D": "D. 69.25 and 22.0", "Answer": "4"}, 
+{"index": "26_T1_M_300", "question": "Which situation about Monthly Charges and Tenure lies outside the others the most?", "A": "A. 19.75 and 53.0", "B": "B. 95.25 and 42.0", "C": "C. 33.9 and 10.0", "D": "D. 35.4 and 31.0", "Answer": "1"}, 
+{"index": "26_T1_H_300", "question": "Which situation about Monthly Charges and Tenure lies outside the others the most?", "A": "A. 19.4 and 61.0", "B": "B. 90.2 and 20.0", "C": "C. 42.35 and 40.0", "D": "D. 64.75 and 37.0", "Answer": "1"}, 
+{"index": "26_T1_L_1k", "question": "Which situation about Monthly Charges and Tenure lies outside the others the most?", "A": "A. 73.6 and 7.0", "B": "B. 49.15 and 52.0", "C": "C. 45.15 and 8.0", "D": "D. 40.1 and 1.0", "Answer": "4"}, 
+{"index": "26_T1_M_1k", "question": "Which situation about Monthly Charges and Tenure lies outside the others the most?", "A": "A. 80.05 and 1.0", "B": "B. 19.25 and 7.0", "C": "C. 63.6 and 3.0", "D": "D. 79.7 and 67.0", "Answer": "3"}, 
+{"index": "26_T1_H_1k", "question": "Which situation about Monthly Charges and Tenure lies outside the others the most?", "A": "A. 69.7 and 5.0", "B": "B. 66.4 and 2.0", "C": "C. 63.6 and 3.0", "D": "D. 95.35 and 10.0", "Answer": "3"},
+{"index": "28_T1_L_100", "question": "Which situation about Average Glucose Level and Body Mass Index lies outside the others the most?", "A": "A. 243.86 and 24.9", "B": "B. 111.28 and 19.2", "C": "C. 55.64 and 17.8", "D": "D. 201.74 and 35.5", "Answer": "1"}, 
+{"index": "28_T1_M_100", "question": "Which situation about Average Glucose Level and Body Mass Index lies outside the others the most?", "A": "A. 178.45 and 15.4", "B": "B. 82.4 and 28.2", "C": "C. 136.75 and 34.3", "D": "D. 237.05 and 29.3", "Answer": "4"}, 
+{"index": "28_T1_H_100", "question": "Which situation about Average Glucose Level and Body Mass Index lies outside the others the most?", "A": "A. 62.73 and 21.5", "B": "B. 187.88 and 29.2", "C": "C. 255.3 and 33.5", "D": "D. 133.07 and 59.2", "Answer": "3"}, 
+{"index": "28_T1_L_300", "question": "Which situation about Average Glucose Level and Body Mass Index lies outside the others the most?", "A": "A. 80.85 and 19.4", "B": "B. 111.94 and 26.5", "C": "C. 62.47 and 21.1", "D": "D. 59.85 and 41.5", "Answer": "4"}, 
+{"index": "28_T1_M_300", "question": "Which situation about Average Glucose Level and Body Mass Index lies outside the others the most?", "A": "A. 56.7 and 54.8", "B": "B. 128.92 and 22.3", "C": "C. 88.82 and 29.1", "D": "D. 135.79 and 21.0", "Answer": "1"}, 
+{"index": "28_T1_H_300", "question": "Which situation about Average Glucose Level and Body Mass Index lies outside the others the most?", "A": "A. 71.66 and 40.5", "B": "B. 58.11 and 65.9", "C": "C. 105.06 and 51.9", "D": "D. 105.79 and 31.9", "Answer": "2"}, 
+{"index": "28_T1_L_1k", "question": "Which situation about Average Glucose Level and Body Mass Index lies outside the others the most?", "A": "A. 100.66 and 41.3", "B": "B. 121.04 and 30.0", "C": "C. 59.7 and 49.3", "D": "D. 204.53 and 43.3", "Answer": "3"}, 
+{"index": "28_T1_M_1k", "question": "Which situation about Average Glucose Level and Body Mass Index lies outside the others the most?", "A": "A. 71.93 and 24.9", "B": "B. 98.44 and 51.0", "C": "C. 259.23 and 58.1", "D": "D. 157.01 and 17.0", "Answer": "3"}, 
+{"index": "28_T1_H_1k", "question": "Which situation about Average Glucose Level and Body Mass Index lies outside the others the most?", "A": "A. 100.78 and 69.4", "B": "B. 99.7 and 35.6", "C": "C. 271.74 and 31.1", "D": "D. 221.54 and 51.5", "Answer": "1"},
+{"index": "29_T1_L_100", "question": "Which situation about Income and Mortgage lies outside the others the most?", "A": "A. 121.0 and 408.0", "B": "B. 174.0 and 466.0", "C": "C. 34.0 and 119.0", "D": "D. 13.0 and 87.0", "Answer": "2"}, 
+{"index": "29_T1_M_100", "question": "Which situation about Income and Mortgage lies outside the others the most?", "A": "A. 180.0 and 550.0", "B": "B. 163.0 and 396.0", "C": "C. 75.0 and 280.0", "D": "D. 39.0 and 182.0", "Answer": "1"}, 
+{"index": "29_T1_H_100", "question": "Which situation about Income and Mortgage lies outside the others the most?", "A": "A. 33.0 and 108.0", "B": "B. 195.0 and 617.0", "C": "C. 94.0 and 272.0", "D": "D. 132.0 and 403.0", "Answer": "2"}, 
+{"index": "29_T1_L_300", "question": "Which situation about Income and Mortgage lies outside the others the most?", "A": "A. 10.0 and 87.0", "B": "B. 33.0 and 87.0", "C": "C. 205.0 and 181.0", "D": "D. 82.0 and 219.0", "Answer": "3"}, 
+{"index": "29_T1_M_300", "question": "Which situation about Income and Mortgage lies outside the others the most?", "A": "A. 174.0 and 466.0", "B": "B. 61.0 and 251.0", "C": "C. 43.0 and 159.0", "D": "D. 192.0 and 601.0", "Answer": "4"}, 
+{"index": "29_T1_H_300", "question": "Which situation about Income and Mortgage lies outside the others the most?", "A": "A. 195.0 and 617.0", "B": "B. 68.0 and 91.0", "C": "C. 180.0 and 524.0", "D": "D. 108.0 and 359.0", "Answer": "1"}, 
+{"index": "29_T1_L_1k", "question": "Which situation about Income and Mortgage lies outside the others the most?", "A": "A. 139.0 and 483.0", "B": "B. 195.0 and 635.0", "C": "C. 68.0 and 91.0", "D": "D. 53.0 and 109.0", "Answer": "2"}, 
+{"index": "29_T1_M_1k", "question": "Which situation about Income and Mortgage lies outside the others the most?", "A": "A. 21.0 and 129.0", "B": "B. 195.0 and 635.0", "C": "C. 93.0 and 79.0", "D": "D. 182.0 and 372.0", "Answer": "2"}, 
+{"index": "29_T1_H_1k", "question": "Which situation about Income and Mortgage lies outside the others the most?", "A": "A. 195.0 and 635.0", "B": "B. 133.0 and 212.0", "C": "C. 182.0 and 94.0", "D": "D. 78.0 and 118.0", "Answer": "1"},
+{"index": "30_T1_L_100", "question": "Which situation about Temperature and Humidity lies outside the others the most?", "A": "A. 12.1 and 82.0", "B": "B. 20.0 and 44.0", "C": "C. 11.9 and 25.0", "D": "D. 16.6 and 57.0", "Answer": "3"}, 
+{"index": "30_T1_M_100", "question": "Which situation about Temperature and Humidity lies outside the others the most?", "A": "A. 24.4 and 9.0", "B": "B. 28.5 and 33.0", "C": "C. 27.4 and 22.0", "D": "D. 12.7 and 71.0", "Answer": "1"}, 
+{"index": "30_T1_H_100", "question": "Which situation about Temperature and Humidity lies outside the others the most?", "A": "A. 30.4 and 30.0", "B": "B. 25.5 and 42.0", "C": "C. 27.0 and 8.0", "D": "D. 19.5 and 63.0", "Answer": "3"}, 
+{"index": "30_T1_L_300", "question": "Which situation about Temperature and Humidity lies outside the others the most?", "A": "A. 27.2 and 27.0", "B": "B. 13.0 and 74.0", "C": "C. 13.6 and 79.0", "D": "D. 8.7 and 45.0", "Answer": "4"}, 
+{"index": "30_T1_M_300", "question": "Which situation about Temperature and Humidity lies outside the others the most?", "A": "A. 16.5 and 73.0", "B": "B. 19.3 and 43.0", "C": "C. 23.6 and 28.0", "D": "D. 37.7 and 11.0", "Answer": "4"}, 
+{"index": "30_T1_H_300", "question": "Which situation about Temperature and Humidity lies outside the others the most?", "A": "A. 29.9 and 2.0", "B": "B. 7.7 and 93.0", "C": "C. 26.9 and 87.0", "D": "D. 33.3 and 21.0", "Answer": "1"}, 
+{"index": "30_T1_L_1k", "question": "Which situation about Temperature and Humidity lies outside the others the most?", "A": "A. 1.4 and 81.0", "B": "B. 20.7 and 76.0", "C": "C. 11.2 and 86.0", "D": "D. 6.6 and 61.0", "Answer": "1"}, 
+{"index": "30_T1_M_1k", "question": "Which situation about Temperature and Humidity lies outside the others the most?", "A": "A. 29.4 and 44.0", "B": "B. 20.9 and 86.0", "C": "C. 1.5 and 46.0", "D": "D. -2.3 and 98.0", "Answer": "3"}, 
+{"index": "30_T1_H_1k", "question": "Which situation about Temperature and Humidity lies outside the others the most?", "A": "A. 7.9 and 60.0", "B": "B. 7.8 and 31.0", "C": "C. 19.2 and 74.0", "D": "D. -0.4 and 52.0", "Answer": "4"}
+],
+"T2":[
+{
+"index":"02_T2_H_100",
+"question":"Which of the following statements about Mega-sena Brazil Lottery is true?",
+"A":"A. There is a positive correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"B":"B. There is a negative correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"C":"C. There is no significant correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"Answer":"1"
+},
+{
+"index":"02_T2_H_1k",
+"question":"Which of the following statements about Mega-sena Brazil Lottery is true?",
+"A":"A. There is a positive correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"B":"B. There is a negative correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"C":"C. There is no significant correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"Answer":"1"
+},
+{
+"index":"02_T2_H_300",
+"question":"Which of the following statements about Mega-sena Brazil Lottery is true?",
+"A":"A. There is a positive correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"B":"B. There is a negative correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"C":"C. There is no significant correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"Answer":"1"
+},
+{
+"index":"02_T2_L_100",
+"question":"Which of the following statements about Mega-sena Brazil Lottery is true?",
+"A":"A. There is a positive correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"B":"B. There is a negative correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"C":"C. There is no significant correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"Answer":"3"
+},
+{
+"index":"02_T2_L_1k",
+"question":"Which of the following statements about Mega-sena Brazil Lottery is true?",
+"A":"A. There is a positive correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"B":"B. There is a negative correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"C":"C. There is no significant correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"Answer":"3"
+},
+{
+"index":"02_T2_L_300",
+"question":"Which of the following statements about Mega-sena Brazil Lottery is true?",
+"A":"A. There is a positive correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"B":"B. There is a negative correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"C":"C. There is no significant correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"Answer":"3"
+},
+{
+"index":"02_T2_M_100",
+"question":"Which of the following statements about Mega-sena Brazil Lottery is true?",
+"A":"A. There is a positive correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"B":"B. There is a negative correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"C":"C. There is no significant correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"Answer":"1"
+},
+{
+"index":"02_T2_M_1k",
+"question":"Which of the following statements about Mega-sena Brazil Lottery is true?",
+"A":"A. There is a positive correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"B":"B. There is a negative correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"C":"C. There is no significant correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"Answer":"1"
+},
+{
+"index":"02_T2_M_300",
+"question":"Which of the following statements about Mega-sena Brazil Lottery is true?",
+"A":"A. There is a positive correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"B":"B. There is a negative correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"C":"C. There is no significant correlation between the Ganhadores_Quina and the Ganhadores_Quadra.",
+"Answer":"1"
+},
+{
+"index":"03_T2_H_100",
+"question":"Which of the following statements about the prediction of admission is true?",
+"A":"A. There is a positive correlation between the Grade Point Average and the Chance of Admit.",
+"B":"B. There is a negative correlation between the Grade Point Average and the Chance of Admit.",
+"C":"C. There is no significant correlation between the Grade Point Average and the Chance of Admit.",
+"Answer":"1"
+},
+{
+"index":"03_T2_H_1k",
+"question":"Which of the following statements about the prediction of admission is true?",
+"A":"A. There is a positive correlation between the Grade Point Average and the Chance of Admit.",
+"B":"B. There is a negative correlation between the Grade Point Average and the Chance of Admit.",
+"C":"C. There is no significant correlation between the Grade Point Average and the Chance of Admit.",
+"Answer":"1"
+},
+{
+"index":"03_T2_H_300",
+"question":"Which of the following statements about the prediction of admission is true?",
+"A":"A. There is a positive correlation between the Grade Point Average and the Chance of Admit.",
+"B":"B. There is a negative correlation between the Grade Point Average and the Chance of Admit.",
+"C":"C. There is no significant correlation between the Grade Point Average and the Chance of Admit.",
+"Answer":"1"
+},
+{
+"index":"03_T2_L_100",
+"question":"Which of the following statements about the prediction of admission is true?",
+"A":"A. There is a positive correlation between the Grade Point Average and the Chance of Admit.",
+"B":"B. There is a negative correlation between the Grade Point Average and the Chance of Admit.",
+"C":"C. There is no significant correlation between the Grade Point Average and the Chance of Admit.",
+"Answer":"3"
+},
+{
+"index":"03_T2_L_1k",
+"question":"Which of the following statements about the prediction of admission is true?",
+"A":"A. There is a positive correlation between the Grade Point Average and the Chance of Admit.",
+"B":"B. There is a negative correlation between the Grade Point Average and the Chance of Admit.",
+"C":"C. There is no significant correlation between the Grade Point Average and the Chance of Admit.",
+"Answer":"3"
+},
+{
+"index":"03_T2_L_300",
+"question":"Which of the following statements about the prediction of admission is true?",
+"A":"A. There is a positive correlation between the Grade Point Average and the Chance of Admit.",
+"B":"B. There is a negative correlation between the Grade Point Average and the Chance of Admit.",
+"C":"C. There is no significant correlation between the Grade Point Average and the Chance of Admit.",
+"Answer":"3"
+},
+{
+"index":"03_T2_M_100",
+"question":"Which of the following statements about the prediction of admission is true?",
+"A":"A. There is a positive correlation between the Grade Point Average and the Chance of Admit.",
+"B":"B. There is a negative correlation between the Grade Point Average and the Chance of Admit.",
+"C":"C. There is no significant correlation between the Grade Point Average and the Chance of Admit.",
+"Answer":"1"
+},
+{
+"index":"03_T2_M_1k",
+"question":"Which of the following statements about the prediction of admission is true?",
+"A":"A. There is a positive correlation between the Grade Point Average and the Chance of Admit.",
+"B":"B. There is a negative correlation between the Grade Point Average and the Chance of Admit.",
+"C":"C. There is no significant correlation between the Grade Point Average and the Chance of Admit.",
+"Answer":"1"
+},
+{
+"index":"03_T2_M_300",
+"question":"Which of the following statements about the prediction of admission is true?",
+"A":"A. There is a positive correlation between the Grade Point Average and the Chance of Admit.",
+"B":"B. There is a negative correlation between the Grade Point Average and the Chance of Admit.",
+"C":"C. There is no significant correlation between the Grade Point Average and the Chance of Admit.",
+"Answer":"1"
+},
+{
+"index":"05_T2_L_300",
+"question":"Which of the following statements about the sale of avocado is true?",
+"A":"A. There is a positive correlation between the Average Price and the Total Volumn.",
+"B":"B. There is a negative correlation between the Average Price and the Total Volumn.",
+"C":"C. There is no significant correlation between the Average Price and the Total Volumn.",
+"Answer":"3"
+},
+{
+"index":"05_T2_H_100",
+"question":"Which of the following statements about the sale of avocado is true?",
+"A":"A. There is a positive correlation between the Average Price and the Total Volumn.",
+"B":"B. There is a negative correlation between the Average Price and the Total Volumn.",
+"C":"C. There is no significant correlation between the Average Price and the Total Volumn.",
+"Answer":"2"
+},
+{
+"index":"05_T2_H_1k",
+"question":"Which of the following statements about the sale of avocado is true?",
+"A":"A. There is a positive correlation between the Average Price and the Total Volumn.",
+"B":"B. There is a negative correlation between the Average Price and the Total Volumn.",
+"C":"C. There is no significant correlation between the Average Price and the Total Volumn.",
+"Answer":"2"
+},
+{
+"index":"05_T2_H_300",
+"question":"Which of the following statements about the sale of avocado is true?",
+"A":"A. There is a positive correlation between the Average Price and the Total Volumn.",
+"B":"B. There is a negative correlation between the Average Price and the Total Volumn.",
+"C":"C. There is no significant correlation between the Average Price and the Total Volumn.",
+"Answer":"2"
+},
+{
+"index":"05_T2_L_100",
+"question":"Which of the following statements about the sale of avocado is true?",
+"A":"A. There is a positive correlation between the Average Price and the Total Volumn.",
+"B":"B. There is a negative correlation between the Average Price and the Total Volumn.",
+"C":"C. There is no significant correlation between the Average Price and the Total Volumn.",
+"Answer":"3"
+},
+{
+"index":"05_T2_L_1k",
+"question":"Which of the following statements about the sale of avocado is true?",
+"A":"A. There is a positive correlation between the Average Price and the Total Volumn.",
+"B":"B. There is a negative correlation between the Average Price and the Total Volumn.",
+"C":"C. There is no significant correlation between the Average Price and the Total Volumn.",
+"Answer":"3"
+},
+{
+"index":"05_T2_M_100",
+"question":"Which of the following statements about the sale of avocado is true?",
+"A":"A. There is a positive correlation between the Average Price and the Total Volumn.",
+"B":"B. There is a negative correlation between the Average Price and the Total Volumn.",
+"C":"C. There is no significant correlation between the Average Price and the Total Volumn.",
+"Answer":"2"
+},
+{
+"index":"05_T2_M_1k",
+"question":"Which of the following statements about the sale of avocado is true?",
+"A":"A. There is a positive correlation between the Average Price and the Total Volumn.",
+"B":"B. There is a negative correlation between the Average Price and the Total Volumn.",
+"C":"C. There is no significant correlation between the Average Price and the Total Volumn.",
+"Answer":"2"
+},
+{
+"index":"05_T2_M_300",
+"question":"Which of the following statements about the sale of avocado is true?",
+"A":"A. There is a positive correlation between the Average Price and the Total Volumn.",
+"B":"B. There is a negative correlation between the Average Price and the Total Volumn.",
+"C":"C. There is no significant correlation between the Average Price and the Total Volumn.",
+"Answer":"2"
+},
+{
+"index":"06_T2_H_100",
+"question":"Which of the following statements about these basketball teams is true?",
+"A":"A. There is a positive correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"B":"B. There is a negative correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"C":"C. There is no significant correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"Answer":"1"
+},
+{
+"index":"06_T2_H_1k",
+"question":"Which of the following statements about these basketball teams is true?",
+"A":"A. There is a positive correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"B":"B. There is a negative correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"C":"C. There is no significant correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"Answer":"1"
+},
+{
+"index":"06_T2_H_300",
+"question":"Which of the following statements about these basketball teams is true?",
+"A":"A. There is a positive correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"B":"B. There is a negative correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"C":"C. There is no significant correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"Answer":"1"
+},
+{
+"index":"06_T2_L_100",
+"question":"Which of the following statements about these basketball teams is true?",
+"A":"A. There is a positive correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"B":"B. There is a negative correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"C":"C. There is no significant correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"Answer":"3"
+},
+{
+"index":"06_T2_L_1k",
+"question":"Which of the following statements about these basketball teams is true?",
+"A":"A. There is a positive correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"B":"B. There is a negative correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"C":"C. There is no significant correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"Answer":"3"
+},
+{
+"index":"06_T2_L_300",
+"question":"Which of the following statements about these basketball teams is true?",
+"A":"A. There is a positive correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"B":"B. There is a negative correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"C":"C. There is no significant correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"Answer":"3"
+},
+{
+"index":"06_T2_M_100",
+"question":"Which of the following statements about these basketball teams is true?",
+"A":"A. There is a positive correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"B":"B. There is a negative correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"C":"C. There is no significant correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"Answer":"1"
+},
+{
+"index":"06_T2_M_1k",
+"question":"Which of the following statements about these basketball teams is true?",
+"A":"A. There is a positive correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"B":"B. There is a negative correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"C":"C. There is no significant correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"Answer":"1"
+},
+{
+"index":"06_T2_M_300",
+"question":"Which of the following statements about these basketball teams is true?",
+"A":"A. There is a positive correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"B":"B. There is a negative correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"C":"C. There is no significant correlation between the Probability of HOME Victory and the Probability of AWAY Victory.",
+"Answer":"1"
+},
+{
+"index":"17_T2_H_100",
+"question":"Which of the following statements about students performance in exams is true?",
+"A":"A. There is a positive correlation between the Reading Score and the Math Score.",
+"B":"B. There is a negative correlation between the Reading Score and the Math Score.",
+"C":"C. There is no significant correlation between the Reading Score and the Math Score.",
+"Answer":"1"
+},
+{
+"index":"17_T2_H_1k",
+"question":"Which of the following statements about students performance in exams is true?",
+"A":"A. There is a positive correlation between the Reading Score and the Math Score.",
+"B":"B. There is a negative correlation between the Reading Score and the Math Score.",
+"C":"C. There is no significant correlation between the Reading Score and the Math Score.",
+"Answer":"1"
+},
+{
+"index":"17_T2_H_300",
+"question":"Which of the following statements about students performance in exams is true?",
+"A":"A. There is a positive correlation between the Reading Score and the Math Score.",
+"B":"B. There is a negative correlation between the Reading Score and the Math Score.",
+"C":"C. There is no significant correlation between the Reading Score and the Math Score.",
+"Answer":"1"
+},
+{
+"index":"17_T2_L_100",
+"question":"Which of the following statements about students performance in exams is true?",
+"A":"A. There is a positive correlation between the Reading Score and the Math Score.",
+"B":"B. There is a negative correlation between the Reading Score and the Math Score.",
+"C":"C. There is no significant correlation between the Reading Score and the Math Score.",
+"Answer":"3"
+},
+{
+"index":"17_T2_L_1k",
+"question":"Which of the following statements about students performance in exams is true?",
+"A":"A. There is a positive correlation between the Reading Score and the Math Score.",
+"B":"B. There is a negative correlation between the Reading Score and the Math Score.",
+"C":"C. There is no significant correlation between the Reading Score and the Math Score.",
+"Answer":"3"
+},
+{
+"index":"17_T2_L_300",
+"question":"Which of the following statements about students performance in exams is true?",
+"A":"A. There is a positive correlation between the Reading Score and the Math Score.",
+"B":"B. There is a negative correlation between the Reading Score and the Math Score.",
+"C":"C. There is no significant correlation between the Reading Score and the Math Score.",
+"Answer":"3"
+},
+{
+"index":"17_T2_M_100",
+"question":"Which of the following statements about students performance in exams is true?",
+"A":"A. There is a positive correlation between the Reading Score and the Math Score.",
+"B":"B. There is a negative correlation between the Reading Score and the Math Score.",
+"C":"C. There is no significant correlation between the Reading Score and the Math Score.",
+"Answer":"1"
+},
+{
+"index":"17_T2_M_1k",
+"question":"Which of the following statements about students performance in exams is true?",
+"A":"A. There is a positive correlation between the Reading Score and the Math Score.",
+"B":"B. There is a negative correlation between the Reading Score and the Math Score.",
+"C":"C. There is no significant correlation between the Reading Score and the Math Score.",
+"Answer":"1"
+},
+{
+"index":"17_T2_M_300",
+"question":"Which of the following statements about students performance in exams is true?",
+"A":"A. There is a positive correlation between the Reading Score and the Math Score.",
+"B":"B. There is a negative correlation between the Reading Score and the Math Score.",
+"C":"C. There is no significant correlation between the Reading Score and the Math Score.",
+"Answer":"1"
+},
+{
+"index":"20_T2_H_100",
+"question":"Which of the following statements about forest fires is true?",
+"A":"A. There is a positive correlation between the Temperature and the Relative Humidity.",
+"B":"B. There is a negative correlation between the Temperature and the Relative Humidity.",
+"C":"C. There is no significant correlation between the Temperature and the Relative Humidity.",
+"Answer":"2"
+},
+{
+"index":"20_T2_H_1k",
+"question":"Which of the following statements about forest fires is true?",
+"A":"A. There is a positive correlation between the Temperature and the Relative Humidity.",
+"B":"B. There is a negative correlation between the Temperature and the Relative Humidity.",
+"C":"C. There is no significant correlation between the Temperature and the Relative Humidity.",
+"Answer":"2"
+},
+{
+"index":"20_T2_H_300",
+"question":"Which of the following statements about forest fires is true?",
+"A":"A. There is a positive correlation between the Temperature and the Relative Humidity.",
+"B":"B. There is a negative correlation between the Temperature and the Relative Humidity.",
+"C":"C. There is no significant correlation between the Temperature and the Relative Humidity.",
+"Answer":"2"
+},
+{
+"index":"20_T2_L_100",
+"question":"Which of the following statements about forest fires is true?",
+"A":"A. There is a positive correlation between the Temperature and the Relative Humidity.",
+"B":"B. There is a negative correlation between the Temperature and the Relative Humidity.",
+"C":"C. There is no significant correlation between the Temperature and the Relative Humidity.",
+"Answer":"3"
+},
+{
+"index":"20_T2_L_1k",
+"question":"Which of the following statements about forest fires is true?",
+"A":"A. There is a positive correlation between the Temperature and the Relative Humidity.",
+"B":"B. There is a negative correlation between the Temperature and the Relative Humidity.",
+"C":"C. There is no significant correlation between the Temperature and the Relative Humidity.",
+"Answer":"3"
+},
+{
+"index":"20_T2_L_300",
+"question":"Which of the following statements about forest fires is true?",
+"A":"A. There is a positive correlation between the Temperature and the Relative Humidity.",
+"B":"B. There is a negative correlation between the Temperature and the Relative Humidity.",
+"C":"C. There is no significant correlation between the Temperature and the Relative Humidity.",
+"Answer":"3"
+},
+{
+"index":"20_T2_M_100",
+"question":"Which of the following statements about forest fires is true?",
+"A":"A. There is a positive correlation between the Temperature and the Relative Humidity.",
+"B":"B. There is a negative correlation between the Temperature and the Relative Humidity.",
+"C":"C. There is no significant correlation between the Temperature and the Relative Humidity.",
+"Answer":"2"
+},
+{
+"index":"20_T2_M_1k",
+"question":"Which of the following statements about forest fires is true?",
+"A":"A. There is a positive correlation between the Temperature and the Relative Humidity.",
+"B":"B. There is a negative correlation between the Temperature and the Relative Humidity.",
+"C":"C. There is no significant correlation between the Temperature and the Relative Humidity.",
+"Answer":"2"
+},
+{
+"index":"20_T2_M_300",
+"question":"Which of the following statements about forest fires is true?",
+"A":"A. There is a positive correlation between the Temperature and the Relative Humidity.",
+"B":"B. There is a negative correlation between the Temperature and the Relative Humidity.",
+"C":"C. There is no significant correlation between the Temperature and the Relative Humidity.",
+"Answer":"2"
+},
+{
+"index":"24_T2_H_100",
+"question":"Which of the following statements about chess game rating in black's victory is true?",
+"A":"A. There is a positive correlation between the White Rating and the Black Rating.",
+"B":"B. There is a negative correlation between the White Rating and the Black Rating.",
+"C":"C. There is no significant correlation between the White Rating and the Black Rating.",
+"Answer":"1"
+},
+{
+"index":"24_T2_H_1k",
+"question":"Which of the following statements about chess game rating in black's victory is true?",
+"A":"A. There is a positive correlation between the White Rating and the Black Rating.",
+"B":"B. There is a negative correlation between the White Rating and the Black Rating.",
+"C":"C. There is no significant correlation between the White Rating and the Black Rating.",
+"Answer":"1"
+},
+{
+"index":"24_T2_H_300",
+"question":"Which of the following statements about chess game rating in black's victory is true?",
+"A":"A. There is a positive correlation between the White Rating and the Black Rating.",
+"B":"B. There is a negative correlation between the White Rating and the Black Rating.",
+"C":"C. There is no significant correlation between the White Rating and the Black Rating.",
+"Answer":"1"
+},
+{
+"index":"24_T2_L_100",
+"question":"Which of the following statements about chess game rating in black's victory is true?",
+"A":"A. There is a positive correlation between the White Rating and the Black Rating.",
+"B":"B. There is a negative correlation between the White Rating and the Black Rating.",
+"C":"C. There is no significant correlation between the White Rating and the Black Rating.",
+"Answer":"3"
+},
+{
+"index":"24_T2_L_1k",
+"question":"Which of the following statements about chess game rating in black's victory is true?",
+"A":"A. There is a positive correlation between the White Rating and the Black Rating.",
+"B":"B. There is a negative correlation between the White Rating and the Black Rating.",
+"C":"C. There is no significant correlation between the White Rating and the Black Rating.",
+"Answer":"3"
+},
+{
+"index":"24_T2_L_300",
+"question":"Which of the following statements about chess game rating in black's victory is true?",
+"A":"A. There is a positive correlation between the White Rating and the Black Rating.",
+"B":"B. There is a negative correlation between the White Rating and the Black Rating.",
+"C":"C. There is no significant correlation between the White Rating and the Black Rating.",
+"Answer":"3"
+},
+{
+"index":"24_T2_M_100",
+"question":"Which of the following statements about chess game rating in black's victory is true?",
+"A":"A. There is a positive correlation between the White Rating and the Black Rating.",
+"B":"B. There is a negative correlation between the White Rating and the Black Rating.",
+"C":"C. There is no significant correlation between the White Rating and the Black Rating.",
+"Answer":"1"
+},
+{
+"index":"24_T2_M_1k",
+"question":"Which of the following statements about chess game rating in black's victory is true?",
+"A":"A. There is a positive correlation between the White Rating and the Black Rating.",
+"B":"B. There is a negative correlation between the White Rating and the Black Rating.",
+"C":"C. There is no significant correlation between the White Rating and the Black Rating.",
+"Answer":"1"
+},
+{
+"index":"24_T2_M_300",
+"question":"Which of the following statements about chess game rating in black's victory is true?",
+"A":"A. There is a positive correlation between the White Rating and the Black Rating.",
+"B":"B. There is a negative correlation between the White Rating and the Black Rating.",
+"C":"C. There is no significant correlation between the White Rating and the Black Rating.",
+"Answer":"1"
+},
+{
+"index":"25_T2_H_100",
+"question":"Which of the following statements about California is true?",
+"A":"A. There is a positive correlation between the Median Income and the Median House Value there.",
+"B":"B. There is a negative correlation between the Median Income and the Median House Value there.",
+"C":"C. There is no significant correlation between the Median Income and the Median House Value there.",
+"Answer":"1"
+},
+{
+"index":"25_T2_H_1k",
+"question":"Which of the following statements about California is true?",
+"A":"A. There is a positive correlation between the Median Income and the Median House Value there.",
+"B":"B. There is a negative correlation between the Median Income and the Median House Value there.",
+"C":"C. There is no significant correlation between the Median Income and the Median House Value there.",
+"Answer":"1"
+},
+{
+"index":"25_T2_H_300",
+"question":"Which of the following statements about California is true?",
+"A":"A. There is a positive correlation between the Median Income and the Median House Value there.",
+"B":"B. There is a negative correlation between the Median Income and the Median House Value there.",
+"C":"C. There is no significant correlation between the Median Income and the Median House Value there.",
+"Answer":"1"
+},
+{
+"index":"25_T2_L_100",
+"question":"Which of the following statements about California is true?",
+"A":"A. There is a positive correlation between the Median Income and the Median House Value there.",
+"B":"B. There is a negative correlation between the Median Income and the Median House Value there.",
+"C":"C. There is no significant correlation between the Median Income and the Median House Value there.",
+"Answer":"3"
+},
+{
+"index":"25_T2_L_1k",
+"question":"Which of the following statements about California is true?",
+"A":"A. There is a positive correlation between the Median Income and the Median House Value there.",
+"B":"B. There is a negative correlation between the Median Income and the Median House Value there.",
+"C":"C. There is no significant correlation between the Median Income and the Median House Value there.",
+"Answer":"3"
+},
+{
+"index":"25_T2_L_300",
+"question":"Which of the following statements about California is true?",
+"A":"A. There is a positive correlation between the Median Income and the Median House Value there.",
+"B":"B. There is a negative correlation between the Median Income and the Median House Value there.",
+"C":"C. There is no significant correlation between the Median Income and the Median House Value there.",
+"Answer":"3"
+},
+{
+"index":"25_T2_M_100",
+"question":"Which of the following statements about California is true?",
+"A":"A. There is a positive correlation between the Median Income and the Median House Value there.",
+"B":"B. There is a negative correlation between the Median Income and the Median House Value there.",
+"C":"C. There is no significant correlation between the Median Income and the Median House Value there.",
+"Answer":"1"
+},
+{
+"index":"25_T2_M_1k",
+"question":"Which of the following statements about California is true?",
+"A":"A. There is a positive correlation between the Median Income and the Median House Value there.",
+"B":"B. There is a negative correlation between the Median Income and the Median House Value there.",
+"C":"C. There is no significant correlation between the Median Income and the Median House Value there.",
+"Answer":"1"
+},
+{
+"index":"25_T2_M_300",
+"question":"Which of the following statements about California is true?",
+"A":"A. There is a positive correlation between the Median Income and the Median House Value there.",
+"B":"B. There is a negative correlation between the Median Income and the Median House Value there.",
+"C":"C. There is no significant correlation between the Median Income and the Median House Value there.",
+"Answer":"1"
+},
+{
+"index":"26_T2_H_100",
+"question":"Which of the following statements about telco customer churn is true?",
+"A":"A. There is a positive correlation between their Monthly Charges and Tenure.",
+"B":"B. There is a negative correlation between their Monthly Charges and Tenure.",
+"C":"C. There is no significant correlation between their Monthly Charges and Tenure.",
+"Answer":"1"
+},
+{
+"index":"26_T2_H_1k",
+"question":"Which of the following statements about telco customer churn is true?",
+"A":"A. There is a positive correlation between their Monthly Charges and Tenure.",
+"B":"B. There is a negative correlation between their Monthly Charges and Tenure.",
+"C":"C. There is no significant correlation between their Monthly Charges and Tenure.",
+"Answer":"1"
+},
+{
+"index":"26_T2_H_300",
+"question":"Which of the following statements about telco customer churn is true?",
+"A":"A. There is a positive correlation between their Monthly Charges and Tenure.",
+"B":"B. There is a negative correlation between their Monthly Charges and Tenure.",
+"C":"C. There is no significant correlation between their Monthly Charges and Tenure.",
+"Answer":"1"
+},
+{
+"index":"26_T2_L_100",
+"question":"Which of the following statements about telco customer churn is true?",
+"A":"A. There is a positive correlation between their Monthly Charges and Tenure.",
+"B":"B. There is a negative correlation between their Monthly Charges and Tenure.",
+"C":"C. There is no significant correlation between their Monthly Charges and Tenure.",
+"Answer":"3"
+},
+{
+"index":"26_T2_L_1k",
+"question":"Which of the following statements about telco customer churn is true?",
+"A":"A. There is a positive correlation between their Monthly Charges and Tenure.",
+"B":"B. There is a negative correlation between their Monthly Charges and Tenure.",
+"C":"C. There is no significant correlation between their Monthly Charges and Tenure.",
+"Answer":"3"
+},
+{
+"index":"26_T2_L_300",
+"question":"Which of the following statements about telco customer churn is true?",
+"A":"A. There is a positive correlation between their Monthly Charges and Tenure.",
+"B":"B. There is a negative correlation between their Monthly Charges and Tenure.",
+"C":"C. There is no significant correlation between their Monthly Charges and Tenure.",
+"Answer":"3"
+},
+{
+"index":"26_T2_M_100",
+"question":"Which of the following statements about telco customer churn is true?",
+"A":"A. There is a positive correlation between their Monthly Charges and Tenure.",
+"B":"B. There is a negative correlation between their Monthly Charges and Tenure.",
+"C":"C. There is no significant correlation between their Monthly Charges and Tenure.",
+"Answer":"1"
+},
+{
+"index":"26_T2_M_1k",
+"question":"Which of the following statements about telco customer churn is true?",
+"A":"A. There is a positive correlation between their Monthly Charges and Tenure.",
+"B":"B. There is a negative correlation between their Monthly Charges and Tenure.",
+"C":"C. There is no significant correlation between their Monthly Charges and Tenure.",
+"Answer":"1"
+},
+{
+"index":"26_T2_M_300",
+"question":"Which of the following statements about telco customer churn is true?",
+"A":"A. There is a positive correlation between their Monthly Charges and Tenure.",
+"B":"B. There is a negative correlation between their Monthly Charges and Tenure.",
+"C":"C. There is no significant correlation between their Monthly Charges and Tenure.",
+"Answer":"1"
+},
+{
+"index":"28_T2_H_100",
+"question":"Which of the following statements about the health indexes is true?",
+"A":"A. There is a positive correlation between Average Glucose Level and Body Mass Index.",
+"B":"B. There is a negative correlation between Average Glucose Level and Body Mass Index.",
+"C":"C. There is no significant correlation between Average Glucose Level and Body Mass Index.",
+"Answer":"1"
+},
+{
+"index":"28_T2_H_1k",
+"question":"Which of the following statements about the health indexes is true?",
+"A":"A. There is a positive correlation between Average Glucose Level and Body Mass Index.",
+"B":"B. There is a negative correlation between Average Glucose Level and Body Mass Index.",
+"C":"C. There is no significant correlation between Average Glucose Level and Body Mass Index.",
+"Answer":"1"
+},
+{
+"index":"28_T2_H_300",
+"question":"Which of the following statements about the health indexes is true?",
+"A":"A. There is a positive correlation between Average Glucose Level and Body Mass Index.",
+"B":"B. There is a negative correlation between Average Glucose Level and Body Mass Index.",
+"C":"C. There is no significant correlation between Average Glucose Level and Body Mass Index.",
+"Answer":"1"
+},
+{
+"index":"28_T2_L_100",
+"question":"Which of the following statements about the health indexes is true?",
+"A":"A. There is a positive correlation between Average Glucose Level and Body Mass Index.",
+"B":"B. There is a negative correlation between Average Glucose Level and Body Mass Index.",
+"C":"C. There is no significant correlation between Average Glucose Level and Body Mass Index.",
+"Answer":"3"
+},
+{
+"index":"28_T2_L_1k",
+"question":"Which of the following statements about the health indexes is true?",
+"A":"A. There is a positive correlation between Average Glucose Level and Body Mass Index.",
+"B":"B. There is a negative correlation between Average Glucose Level and Body Mass Index.",
+"C":"C. There is no significant correlation between Average Glucose Level and Body Mass Index.",
+"Answer":"3"
+},
+{
+"index":"28_T2_L_300",
+"question":"Which of the following statements about the health indexes is true?",
+"A":"A. There is a positive correlation between Average Glucose Level and Body Mass Index.",
+"B":"B. There is a negative correlation between Average Glucose Level and Body Mass Index.",
+"C":"C. There is no significant correlation between Average Glucose Level and Body Mass Index.",
+"Answer":"3"
+},
+{
+"index":"28_T2_M_100",
+"question":"Which of the following statements about the health indexes is true?",
+"A":"A. There is a positive correlation between Average Glucose Level and Body Mass Index.",
+"B":"B. There is a negative correlation between Average Glucose Level and Body Mass Index.",
+"C":"C. There is no significant correlation between Average Glucose Level and Body Mass Index.",
+"Answer":"1"
+},
+{
+"index":"28_T2_M_1k",
+"question":"Which of the following statements about the health indexes is true?",
+"A":"A. There is a positive correlation between Average Glucose Level and Body Mass Index.",
+"B":"B. There is a negative correlation between Average Glucose Level and Body Mass Index.",
+"C":"C. There is no significant correlation between Average Glucose Level and Body Mass Index.",
+"Answer":"1"
+},
+{
+"index":"28_T2_M_300",
+"question":"Which of the following statements about the health indexes is true?",
+"A":"A. There is a positive correlation between Average Glucose Level and Body Mass Index.",
+"B":"B. There is a negative correlation between Average Glucose Level and Body Mass Index.",
+"C":"C. There is no significant correlation between Average Glucose Level and Body Mass Index.",
+"Answer":"1"
+},
+{
+"index":"29_T2_H_100",
+"question":"Which of the following statements about bank loan customers is true?",
+"A":"A. There is a positive correlation between their Income and Mortgage.",
+"B":"B. There is a negative correlation between their Income and Mortgage.",
+"C":"C. There is no significant correlation between their Income and Mortgage.",
+"Answer":"1"
+},
+{
+"index":"29_T2_H_1k",
+"question":"Which of the following statements about bank loan customers is true?",
+"A":"A. There is a positive correlation between their Income and Mortgage.",
+"B":"B. There is a negative correlation between their Income and Mortgage.",
+"C":"C. There is no significant correlation between their Income and Mortgage.",
+"Answer":"1"
+},
+{
+"index":"29_T2_H_300",
+"question":"Which of the following statements about bank loan customers is true?",
+"A":"A. There is a positive correlation between their Income and Mortgage.",
+"B":"B. There is a negative correlation between their Income and Mortgage.",
+"C":"C. There is no significant correlation between their Income and Mortgage.",
+"Answer":"1"
+},
+{
+"index":"29_T2_L_100",
+"question":"Which of the following statements about bank loan customers is true?",
+"A":"A. There is a positive correlation between their Income and Mortgage.",
+"B":"B. There is a negative correlation between their Income and Mortgage.",
+"C":"C. There is no significant correlation between their Income and Mortgage.",
+"Answer":"3"
+},
+{
+"index":"29_T2_L_1k",
+"question":"Which of the following statements about bank loan customers is true?",
+"A":"A. There is a positive correlation between their Income and Mortgage.",
+"B":"B. There is a negative correlation between their Income and Mortgage.",
+"C":"C. There is no significant correlation between their Income and Mortgage.",
+"Answer":"3"
+},
+{
+"index":"29_T2_L_300",
+"question":"Which of the following statements about bank loan customers is true?",
+"A":"A. There is a positive correlation between their Income and Mortgage.",
+"B":"B. There is a negative correlation between their Income and Mortgage.",
+"C":"C. There is no significant correlation between their Income and Mortgage.",
+"Answer":"3"
+},
+{
+"index":"29_T2_M_100",
+"question":"Which of the following statements about bank loan customers is true?",
+"A":"A. There is a positive correlation between their Income and Mortgage.",
+"B":"B. There is a negative correlation between their Income and Mortgage.",
+"C":"C. There is no significant correlation between their Income and Mortgage.",
+"Answer":"1"
+},
+{
+"index":"29_T2_M_1k",
+"question":"Which of the following statements about bank loan customers is true?",
+"A":"A. There is a positive correlation between their Income and Mortgage.",
+"B":"B. There is a negative correlation between their Income and Mortgage.",
+"C":"C. There is no significant correlation between their Income and Mortgage.",
+"Answer":"1"
+},
+{
+"index":"29_T2_M_300",
+"question":"Which of the following statements about bank loan customers is true?",
+"A":"A. There is a positive correlation between their Income and Mortgage.",
+"B":"B. There is a negative correlation between their Income and Mortgage.",
+"C":"C. There is no significant correlation between their Income and Mortgage.",
+"Answer":"1"
+},
+{
+"index":"30_T2_H_100",
+"question":"Which of the following statements about Canberra is true?",
+"A":"A. There is a positive correlation between Temperature and Humidity there.",
+"B":"B. There is a negative correlation between Temperature and Humidity there.",
+"C":"C. There is no significant correlation between Temperature and Humidity there.",
+"Answer":"2"
+},
+{
+"index":"30_T2_H_1k",
+"question":"Which of the following statements about Canberra is true?",
+"A":"A. There is a positive correlation between Temperature and Humidity there.",
+"B":"B. There is a negative correlation between Temperature and Humidity there.",
+"C":"C. There is no significant correlation between Temperature and Humidity there.",
+"Answer":"2"
+},
+{
+"index":"30_T2_H_300",
+"question":"Which of the following statements about Canberra is true?",
+"A":"A. There is a positive correlation between Temperature and Humidity there.",
+"B":"B. There is a negative correlation between Temperature and Humidity there.",
+"C":"C. There is no significant correlation between Temperature and Humidity there.",
+"Answer":"2"
+},
+{
+"index":"30_T2_L_100",
+"question":"Which of the following statements about Canberra is true?",
+"A":"A. There is a positive correlation between Temperature and Humidity there.",
+"B":"B. There is a negative correlation between Temperature and Humidity there.",
+"C":"C. There is no significant correlation between Temperature and Humidity there.",
+"Answer":"3"
+},
+{
+"index":"30_T2_L_1k",
+"question":"Which of the following statements about Canberra is true?",
+"A":"A. There is a positive correlation between Temperature and Humidity there.",
+"B":"B. There is a negative correlation between Temperature and Humidity there.",
+"C":"C. There is no significant correlation between Temperature and Humidity there.",
+"Answer":"3"
+},
+{
+"index":"30_T2_L_300",
+"question":"Which of the following statements about Canberra is true?",
+"A":"A. There is a positive correlation between Temperature and Humidity there.",
+"B":"B. There is a negative correlation between Temperature and Humidity there.",
+"C":"C. There is no significant correlation between Temperature and Humidity there.",
+"Answer":"3"
+},
+{
+"index":"30_T2_M_100",
+"question":"Which of the following statements about Canberra is true?",
+"A":"A. There is a positive correlation between Temperature and Humidity there.",
+"B":"B. There is a negative correlation between Temperature and Humidity there.",
+"C":"C. There is no significant correlation between Temperature and Humidity there.",
+"Answer":"2"
+},
+{
+"index":"30_T2_M_1k",
+"question":"Which of the following statements about Canberra is true?",
+"A":"A. There is a positive correlation between Temperature and Humidity there.",
+"B":"B. There is a negative correlation between Temperature and Humidity there.",
+"C":"C. There is no significant correlation between Temperature and Humidity there.",
+"Answer":"2"
+},
+{
+"index":"30_T2_M_300",
+"question":"Which of the following statements about Canberra is true?",
+"A":"A. There is a positive correlation between Temperature and Humidity there.",
+"B":"B. There is a negative correlation between Temperature and Humidity there.",
+"C":"C. There is no significant correlation between Temperature and Humidity there.",
+"Answer":"2"
+},
+    {
+    "index":"04_T2_H_100",
+    "question":"Which of the following statements about the bike demand in this city is true?",
+    "A":"A. There is a positive correlation between the Temperature and the Bike Demand.",
+    "B":"B. There is a negative correlation between the Temperature and the Bike Demand.",
+    "C":"C. There is no significant correlation between the Temperature and the Bike Demand.",
+    "Answer":"1"
+    },
+    {
+    "index":"04_T2_H_1k",
+    "question":"Which of the following statements about the bike demand in this city is true?",
+    "A":"A. There is a positive correlation between the Temperature and the Bike Demand.",
+    "B":"B. There is a negative correlation between the Temperature and the Bike Demand.",
+    "C":"C. There is no significant correlation between the Temperature and the Bike Demand.",
+    "Answer":"1"
+    },
+    {
+    "index":"04_T2_H_300",
+    "question":"Which of the following statements about the bike demand in this city is true?",
+    "A":"A. There is a positive correlation between the Temperature and the Bike Demand.",
+    "B":"B. There is a negative correlation between the Temperature and the Bike Demand.",
+    "C":"C. There is no significant correlation between the Temperature and the Bike Demand.",
+    "Answer":"1"
+    },
+    {
+    "index":"04_T2_L_100",
+    "question":"Which of the following statements about the bike demand in this city is true?",
+    "A":"A. There is a positive correlation between the Temperature and the Bike Demand.",
+    "B":"B. There is a negative correlation between the Temperature and the Bike Demand.",
+    "C":"C. There is no significant correlation between the Temperature and the Bike Demand.",
+    "Answer":"3"
+    },
+    {
+    "index":"04_T2_L_1k",
+    "question":"Which of the following statements about the bike demand in this city is true?",
+    "A":"A. There is a positive correlation between the Temperature and the Bike Demand.",
+    "B":"B. There is a negative correlation between the Temperature and the Bike Demand.",
+    "C":"C. There is no significant correlation between the Temperature and the Bike Demand.",
+    "Answer":"3"
+    },
+    {
+    "index":"04_T2_L_300",
+    "question":"Which of the following statements about the bike demand in this city is true?",
+    "A":"A. There is a positive correlation between the Temperature and the Bike Demand.",
+    "B":"B. There is a negative correlation between the Temperature and the Bike Demand.",
+    "C":"C. There is no significant correlation between the Temperature and the Bike Demand.",
+    "Answer":"3"
+    },
+    {
+    "index":"04_T2_M_100",
+    "question":"Which of the following statements about the bike demand in this city is true?",
+    "A":"A. There is a positive correlation between the Temperature and the Bike Demand.",
+    "B":"B. There is a negative correlation between the Temperature and the Bike Demand.",
+    "C":"C. There is no significant correlation between the Temperature and the Bike Demand.",
+    "Answer":"1"
+    },
+    {
+    "index":"04_T2_M_1k",
+    "question":"Which of the following statements about the bike demand in this city is true?",
+    "A":"A. There is a positive correlation between the Temperature and the Bike Demand.",
+    "B":"B. There is a negative correlation between the Temperature and the Bike Demand.",
+    "C":"C. There is no significant correlation between the Temperature and the Bike Demand.",
+    "Answer":"1"
+    },
+    {
+    "index":"04_T2_M_300",
+    "question":"Which of the following statements about the bike demand in this city is true?",
+    "A":"A. There is a positive correlation between the Temperature and the Bike Demand.",
+    "B":"B. There is a negative correlation between the Temperature and the Bike Demand.",
+    "C":"C. There is no significant correlation between the Temperature and the Bike Demand.",
+    "Answer":"1"
+    },
+    {
+    "index":"07_T2_H_100",
+    "question":"Which of the following statements about the Air Quality in City X is true?",
+    "A":"A. There is a positive correlation between Humidity and PM 2.5.",
+    "B":"B. There is a negative correlation between Humidity and PM 2.5.",
+    "C":"C. There is no significant correlation between Humidity and PM 2.5.",
+    "Answer":"1"
+    },
+    {
+    "index":"07_T2_H_1k",
+    "question":"Which of the following statements about the Air Quality in City X is true?",
+    "A":"A. There is a positive correlation between Humidity and PM 2.5.",
+    "B":"B. There is a negative correlation between Humidity and PM 2.5.",
+    "C":"C. There is no significant correlation between Humidity and PM 2.5.",
+    "Answer":"1"
+    },
+    {
+    "index":"07_T2_H_300",
+    "question":"Which of the following statements about the Air Quality in City X is true?",
+    "A":"A. There is a positive correlation between Humidity and PM 2.5.",
+    "B":"B. There is a negative correlation between Humidity and PM 2.5.",
+    "C":"C. There is no significant correlation between Humidity and PM 2.5.",
+    "Answer":"1"
+    },
+    {
+    "index":"07_T2_L_100",
+    "question":"Which of the following statements about the Air Quality in City X is true?",
+    "A":"A. There is a positive correlation between Humidity and PM 2.5.",
+    "B":"B. There is a negative correlation between Humidity and PM 2.5.",
+    "C":"C. There is no significant correlation between Humidity and PM 2.5.",
+    "Answer":"3"
+    },
+    {
+    "index":"07_T2_L_1k",
+    "question":"Which of the following statements about the Air Quality in City X is true?",
+    "A":"A. There is a positive correlation between Humidity and PM 2.5.",
+    "B":"B. There is a negative correlation between Humidity and PM 2.5.",
+    "C":"C. There is no significant correlation between Humidity and PM 2.5.",
+    "Answer":"3"
+    },
+    {
+    "index":"07_T2_L_300",
+    "question":"Which of the following statements about the Air Quality in City X is true?",
+    "A":"A. There is a positive correlation between Humidity and PM 2.5.",
+    "B":"B. There is a negative correlation between Humidity and PM 2.5.",
+    "C":"C. There is no significant correlation between Humidity and PM 2.5.",
+    "Answer":"3"
+    },
+    {
+    "index":"07_T2_M_100",
+    "question":"Which of the following statements about the Air Quality in City X is true?",
+    "A":"A. There is a positive correlation between Humidity and PM 2.5.",
+    "B":"B. There is a negative correlation between Humidity and PM 2.5.",
+    "C":"C. There is no significant correlation between Humidity and PM 2.5.",
+    "Answer":"1"
+    },
+    {
+    "index":"07_T2_M_1k",
+    "question":"Which of the following statements about the Air Quality in City X is true?",
+    "A":"A. There is a positive correlation between Humidity and PM 2.5.",
+    "B":"B. There is a negative correlation between Humidity and PM 2.5.",
+    "C":"C. There is no significant correlation between Humidity and PM 2.5.",
+    "Answer":"1"
+    },
+    {
+    "index":"07_T2_M_300",
+    "question":"Which of the following statements about the Air Quality in City X is true?",
+    "A":"A. There is a positive correlation between Humidity and PM 2.5.",
+    "B":"B. There is a negative correlation between Humidity and PM 2.5.",
+    "C":"C. There is no significant correlation between Humidity and PM 2.5.",
+    "Answer":"1"
+    },
+    {
+    "index":"16_T2_H_100",
+    "question":"Which of the following statements about air quality in city Y is true?",
+    "A":"A. There is a positive correlation between Value of PM10 and Value of CO_2.",
+    "B":"B. There is a negative correlation between Value of PM10 and Value of CO_2.",
+    "C":"C. There is no significant correlation between Value of PM10 and Value of CO_2.",
+    "Answer":"1"
+    },
+    {
+    "index":"16_T2_H_1k",
+    "question":"Which of the following statements about air quality in city Y is true?",
+    "A":"A. There is a positive correlation between Value of PM10 and Value of CO_2.",
+    "B":"B. There is a negative correlation between Value of PM10 and Value of CO_2.",
+    "C":"C. There is no significant correlation between Value of PM10 and Value of CO_2.",
+    "Answer":"1"
+    },
+    {
+    "index":"16_T2_H_300",
+    "question":"Which of the following statements about air quality in city Y is true?",
+    "A":"A. There is a positive correlation between Value of PM10 and Value of CO_2.",
+    "B":"B. There is a negative correlation between Value of PM10 and Value of CO_2.",
+    "C":"C. There is no significant correlation between Value of PM10 and Value of CO_2.",
+    "Answer":"1"
+    },
+    {
+    "index":"16_T2_L_100",
+    "question":"Which of the following statements about air quality in city Y is true?",
+    "A":"A. There is a positive correlation between Value of PM10 and Value of CO_2.",
+    "B":"B. There is a negative correlation between Value of PM10 and Value of CO_2.",
+    "C":"C. There is no significant correlation between Value of PM10 and Value of CO_2.",
+    "Answer":"3"
+    },
+    {
+    "index":"16_T2_L_1k",
+    "question":"Which of the following statements about air quality in city Y is true?",
+    "A":"A. There is a positive correlation between Value of PM10 and Value of CO_2.",
+    "B":"B. There is a negative correlation between Value of PM10 and Value of CO_2.",
+    "C":"C. There is no significant correlation between Value of PM10 and Value of CO_2.",
+    "Answer":"3"
+    },
+    {
+    "index":"16_T2_L_300",
+    "question":"Which of the following statements about air quality in city Y is true?",
+    "A":"A. There is a positive correlation between Value of PM10 and Value of CO_2.",
+    "B":"B. There is a negative correlation between Value of PM10 and Value of CO_2.",
+    "C":"C. There is no significant correlation between Value of PM10 and Value of CO_2.",
+    "Answer":"3"
+    },
+    {
+    "index":"16_T2_M_100",
+    "question":"Which of the following statements about air quality in city Y is true?",
+    "A":"A. There is a positive correlation between Value of PM10 and Value of CO_2.",
+    "B":"B. There is a negative correlation between Value of PM10 and Value of CO_2.",
+    "C":"C. There is no significant correlation between Value of PM10 and Value of CO_2.",
+    "Answer":"1"
+    },
+    {
+    "index":"16_T2_M_1k",
+    "question":"Which of the following statements about air quality in city Y is true?",
+    "A":"A. There is a positive correlation between Value of PM10 and Value of CO_2.",
+    "B":"B. There is a negative correlation between Value of PM10 and Value of CO_2.",
+    "C":"C. There is no significant correlation between Value of PM10 and Value of CO_2.",
+    "Answer":"1"
+    },
+    {
+    "index":"16_T2_M_300",
+    "question":"Which of the following statements about air quality in city Y is true?",
+    "A":"A. There is a positive correlation between Value of PM10 and Value of CO_2.",
+    "B":"B. There is a negative correlation between Value of PM10 and Value of CO_2.",
+    "C":"C. There is no significant correlation between Value of PM10 and Value of CO_2.",
+    "Answer":"1"
+    },
+    {
+    "index":"23_T2_H_100",
+    "question":"Which of the following statements about sales of supermarket Z is true?",
+    "A":"A. There is a positive correlation between Sales and Number of Customers.",
+    "B":"B. There is a negative correlation between Sales and Number of Customers.",
+    "C":"C. There is no significant correlation between Sales and Number of Customers.",
+    "Answer":"1"
+    },
+    {
+    "index":"23_T2_H_1k",
+    "question":"Which of the following statements about sales of supermarket Z is true?",
+    "A":"A. There is a positive correlation between Sales and Number of Customers.",
+    "B":"B. There is a negative correlation between Sales and Number of Customers.",
+    "C":"C. There is no significant correlation between Sales and Number of Customers.",
+    "Answer":"1"
+    },
+    {
+    "index":"23_T2_H_300",
+    "question":"Which of the following statements about sales of supermarket Z is true?",
+    "A":"A. There is a positive correlation between Sales and Number of Customers.",
+    "B":"B. There is a negative correlation between Sales and Number of Customers.",
+    "C":"C. There is no significant correlation between Sales and Number of Customers.",
+    "Answer":"1"
+    },
+    {
+    "index":"23_T2_L_100",
+    "question":"Which of the following statements about sales of supermarket Z is true?",
+    "A":"A. There is a positive correlation between Sales and Number of Customers.",
+    "B":"B. There is a negative correlation between Sales and Number of Customers.",
+    "C":"C. There is no significant correlation between Sales and Number of Customers.",
+    "Answer":"3"
+    },
+    {
+    "index":"23_T2_L_1k",
+    "question":"Which of the following statements about sales of supermarket Z is true?",
+    "A":"A. There is a positive correlation between Sales and Number of Customers.",
+    "B":"B. There is a negative correlation between Sales and Number of Customers.",
+    "C":"C. There is no significant correlation between Sales and Number of Customers.",
+    "Answer":"3"
+    },
+    {
+    "index":"23_T2_L_300",
+    "question":"Which of the following statements about sales of supermarket Z is true?",
+    "A":"A. There is a positive correlation between Sales and Number of Customers.",
+    "B":"B. There is a negative correlation between Sales and Number of Customers.",
+    "C":"C. There is no significant correlation between Sales and Number of Customers.",
+    "Answer":"3"
+    },
+    {
+    "index":"23_T2_M_100",
+    "question":"Which of the following statements about sales of supermarket Z is true?",
+    "A":"A. There is a positive correlation between Sales and Number of Customers.",
+    "B":"B. There is a negative correlation between Sales and Number of Customers.",
+    "C":"C. There is no significant correlation between Sales and Number of Customers.",
+    "Answer":"1"
+    },
+    {
+    "index":"23_T2_M_1k",
+    "question":"Which of the following statements about sales of supermarket Z is true?",
+    "A":"A. There is a positive correlation between Sales and Number of Customers.",
+    "B":"B. There is a negative correlation between Sales and Number of Customers.",
+    "C":"C. There is no significant correlation between Sales and Number of Customers.",
+    "Answer":"1"
+    },
+    {
+    "index":"23_T2_M_300",
+    "question":"Which of the following statements about sales of supermarket Z is true?",
+    "A":"A. There is a positive correlation between Sales and Number of Customers.",
+    "B":"B. There is a negative correlation between Sales and Number of Customers.",
+    "C":"C. There is no significant correlation between Sales and Number of Customers.",
+    "Answer":"1"
+    }
+],
+"T3":[
+    {
+        "index": "02_T3_L_100",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Ganhadores_Quina: 73.7, Ganhadores_Quadra: 5090.0",
+        "B": "B. Ganhadores_Quina: 110.0, Ganhadores_Quadra: 7070.0",
+        "C": "C. Ganhadores_Quina: 187.0, Ganhadores_Quadra: 11300.0",
+        "D": "D. Ganhadores_Quina: 77.6, Ganhadores_Quadra: 5330.0",
+        "Answer": "2"
+    },
+    {
+        "index": "02_T3_M_100",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Ganhadores_Quina: 77.6, Ganhadores_Quadra: 5330.0",
+        "B": "B. Ganhadores_Quina: 73.7, Ganhadores_Quadra: 5090.0",
+        "C": "C. Ganhadores_Quina: 110.0, Ganhadores_Quadra: 7070.0",
+        "D": "D. Ganhadores_Quina: 187.0, Ganhadores_Quadra: 11300.0",
+        "Answer": "3"
+    },
+    {
+        "index": "02_T3_H_100",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Ganhadores_Quina: 110.0, Ganhadores_Quadra: 7070.0",
+        "B": "B. Ganhadores_Quina: 77.6, Ganhadores_Quadra: 5330.0",
+        "C": "C. Ganhadores_Quina: 187.0, Ganhadores_Quadra: 11300.0",
+        "D": "D. Ganhadores_Quina: 73.7, Ganhadores_Quadra: 5090.0",
+        "Answer": "1"
+    },
+    {
+        "index": "02_T3_L_300",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Ganhadores_Quina: 72.5, Ganhadores_Quadra: 4860.0",
+        "B": "B. Ganhadores_Quina: 48.0, Ganhadores_Quadra: 3410.0",
+        "C": "C. Ganhadores_Quina: 94.9, Ganhadores_Quadra: 6280.0",
+        "D": "D. Ganhadores_Quina: 119.0, Ganhadores_Quadra: 7910.0",
+        "Answer": "3"
+    },
+    {
+        "index": "02_T3_M_300",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Ganhadores_Quina: 94.9, Ganhadores_Quadra: 6280.0",
+        "B": "B. Ganhadores_Quina: 48.0, Ganhadores_Quadra: 3410.0",
+        "C": "C. Ganhadores_Quina: 72.5, Ganhadores_Quadra: 4860.0",
+        "D": "D. Ganhadores_Quina: 119.0, Ganhadores_Quadra: 7910.0",
+        "Answer": "1"
+    },
+    {
+        "index": "02_T3_H_300",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Ganhadores_Quina: 94.9, Ganhadores_Quadra: 6280.0",
+        "B": "B. Ganhadores_Quina: 48.0, Ganhadores_Quadra: 3410.0",
+        "C": "C. Ganhadores_Quina: 72.5, Ganhadores_Quadra: 4860.0",
+        "D": "D. Ganhadores_Quina: 119.0, Ganhadores_Quadra: 7910.0",
+        "Answer": "1"
+    },
+    {
+        "index": "02_T3_L_1k",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Ganhadores_Quina: 60.8, Ganhadores_Quadra: 4260.0",
+        "B": "B. Ganhadores_Quina: 48.4, Ganhadores_Quadra: 3510.0",
+        "C": "C. Ganhadores_Quina: 101.0, Ganhadores_Quadra: 6610.0",
+        "D": "D. Ganhadores_Quina: 72.5, Ganhadores_Quadra: 4970.0",
+        "Answer": "3"
+    },
+    {
+        "index": "02_T3_M_1k",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Ganhadores_Quina: 60.8, Ganhadores_Quadra: 4260.0",
+        "B": "B. Ganhadores_Quina: 48.4, Ganhadores_Quadra: 3510.0",
+        "C": "C. Ganhadores_Quina: 101.0, Ganhadores_Quadra: 6610.0",
+        "D": "D. Ganhadores_Quina: 72.5, Ganhadores_Quadra: 4970.0",
+        "Answer": "3"
+    },
+    {
+        "index": "02_T3_H_1k",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Ganhadores_Quina: 72.5, Ganhadores_Quadra: 4970.0",
+        "B": "B. Ganhadores_Quina: 60.8, Ganhadores_Quadra: 4260.0",
+        "C": "C. Ganhadores_Quina: 48.4, Ganhadores_Quadra: 3510.0",
+        "D": "D. Ganhadores_Quina: 101.0, Ganhadores_Quadra: 6610.0",
+        "Answer": "4"
+    },
+    {
+        "index": "03_T3_L_100",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Average Grade Point: 8.5, Chance of Admission: 0.69",
+        "B": "B. Average Grade Point: 8.6, Chance of Admission: 0.75",
+        "C": "C. Average Grade Point: 7.8, Chance of Admission: 0.62",
+        "D": "D. Average Grade Point: 8.1, Chance of Admission: 0.64",
+        "Answer": "1"
+    },
+    {
+        "index": "03_T3_M_100",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Average Grade Point: 8.1, Chance of Admission: 0.64",
+        "B": "B. Average Grade Point: 7.8, Chance of Admission: 0.62",
+        "C": "C. Average Grade Point: 8.6, Chance of Admission: 0.75",
+        "D": "D. Average Grade Point: 8.5, Chance of Admission: 0.69",
+        "Answer": "4"
+    },
+    {
+        "index": "03_T3_H_100",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Average Grade Point: 8.5, Chance of Admission: 0.69",
+        "B": "B. Average Grade Point: 8.6, Chance of Admission: 0.75",
+        "C": "C. Average Grade Point: 8.1, Chance of Admission: 0.64",
+        "D": "D. Average Grade Point: 7.8, Chance of Admission: 0.62",
+        "Answer": "1"
+    },
+    {
+        "index": "03_T3_L_300",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Average Grade Point: 8.5, Chance of Admission: 0.71",
+        "B": "B. Average Grade Point: 9.0, Chance of Admission: 0.78",
+        "C": "C. Average Grade Point: 8.4, Chance of Admission: 0.69",
+        "D": "D. Average Grade Point: 8.8, Chance of Admission: 0.74",
+        "Answer": "1"
+    },
+    {
+        "index": "03_T3_M_300",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Average Grade Point: 9.0, Chance of Admission: 0.78",
+        "B": "B. Average Grade Point: 8.4, Chance of Admission: 0.69",
+        "C": "C. Average Grade Point: 8.5, Chance of Admission: 0.71",
+        "D": "D. Average Grade Point: 8.8, Chance of Admission: 0.74",
+        "Answer": "3"
+    },
+    {
+        "index": "03_T3_H_300",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Average Grade Point: 8.4, Chance of Admission: 0.69",
+        "B": "B. Average Grade Point: 8.5, Chance of Admission: 0.71",
+        "C": "C. Average Grade Point: 8.8, Chance of Admission: 0.74",
+        "D": "D. Average Grade Point: 9.0, Chance of Admission: 0.78",
+        "Answer": "2"
+    },
+    {
+        "index": "03_T3_L_1k",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Average Grade Point: 8.5, Chance of Admission: 0.71",
+        "B": "B. Average Grade Point: 8.6, Chance of Admission: 0.71",
+        "C": "C. Average Grade Point: 7.7, Chance of Admission: 0.61",
+        "D": "D. Average Grade Point: 9.0, Chance of Admission: 0.77",
+        "Answer": "1"
+    },
+    {
+        "index": "03_T3_M_1k",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Average Grade Point: 8.5, Chance of Admission: 0.71",
+        "B": "B. Average Grade Point: 9.0, Chance of Admission: 0.77",
+        "C": "C. Average Grade Point: 7.7, Chance of Admission: 0.61",
+        "D": "D. Average Grade Point: 8.6, Chance of Admission: 0.71",
+        "Answer": "1"
+    },
+    {
+        "index": "03_T3_H_1k",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Average Grade Point: 7.7, Chance of Admission: 0.61",
+        "B": "B. Average Grade Point: 8.6, Chance of Admission: 0.71",
+        "C": "C. Average Grade Point: 8.5, Chance of Admission: 0.71",
+        "D": "D. Average Grade Point: 9.0, Chance of Admission: 0.77",
+        "Answer": "3"
+    },
+    {
+        "index": "04_T3_L_100",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Temperature: 24.0, Bike Demond: 100.0",
+        "B": "B. Temperature: 25.0, Bike Demond: 190.0",
+        "C": "C. Temperature: 26.0, Bike Demond: 290.0",
+        "D": "D. Temperature: 25.0, Bike Demond: 170.0",
+        "Answer": "2"
+    },
+    {
+        "index": "04_T3_M_100",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Temperature: 24.0, Bike Demond: 100.0",
+        "B": "B. Temperature: 25.0, Bike Demond: 170.0",
+        "C": "C. Temperature: 26.0, Bike Demond: 290.0",
+        "D": "D. Temperature: 25.0, Bike Demond: 190.0",
+        "Answer": "4"
+    },
+    {
+        "index": "04_T3_H_100",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Temperature: 25.0, Bike Demond: 190.0",
+        "B": "B. Temperature: 24.0, Bike Demond: 100.0",
+        "C": "C. Temperature: 26.0, Bike Demond: 290.0",
+        "D": "D. Temperature: 25.0, Bike Demond: 170.0",
+        "Answer": "1"
+    },
+    {
+        "index": "04_T3_L_300",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Temperature: 29.0, Bike Demond: 410.0",
+        "B": "B. Temperature: 20.0, Bike Demond: 41.0",
+        "C": "C. Temperature: 23.0, Bike Demond: 170.0",
+        "D": "D. Temperature: 20.0, Bike Demond: 47.0",
+        "Answer": "3"
+    },
+    {
+        "index": "04_T3_M_300",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Temperature: 29.0, Bike Demond: 410.0",
+        "B": "B. Temperature: 20.0, Bike Demond: 47.0",
+        "C": "C. Temperature: 20.0, Bike Demond: 41.0",
+        "D": "D. Temperature: 23.0, Bike Demond: 170.0",
+        "Answer": "4"
+    },
+    {
+        "index": "04_T3_H_300",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Temperature: 29.0, Bike Demond: 410.0",
+        "B": "B. Temperature: 23.0, Bike Demond: 170.0",
+        "C": "C. Temperature: 20.0, Bike Demond: 47.0",
+        "D": "D. Temperature: 20.0, Bike Demond: 41.0",
+        "Answer": "2"
+    },
+    {
+        "index": "04_T3_L_1k",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Temperature: 23.0, Bike Demond: 190.0",
+        "B": "B. Temperature: 20.0, Bike Demond: 42.0",
+        "C": "C. Temperature: 28.0, Bike Demond: 460.0",
+        "D": "D. Temperature: 26.0, Bike Demond: 250.0",
+        "Answer": "1"
+    },
+    {
+        "index": "04_T3_M_1k",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Temperature: 23.0, Bike Demond: 190.0",
+        "B": "B. Temperature: 20.0, Bike Demond: 42.0",
+        "C": "C. Temperature: 26.0, Bike Demond: 250.0",
+        "D": "D. Temperature: 28.0, Bike Demond: 460.0",
+        "Answer": "1"
+    },
+    {
+        "index": "04_T3_H_1k",
+        "question": "Most of points in the plot are gathered around: ?",
+        "A": "A. Temperature: 20.0, Bike Demond: 42.0",
+        "B": "B. Temperature: 23.0, Bike Demond: 190.0",
+        "C": "C. Temperature: 28.0, Bike Demond: 460.0",
+        "D": "D. Temperature: 26.0, Bike Demond: 250.0",
+        "Answer": "2"
+    },
+    {"index": "05_T3_L_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Average Price: 1.2, Total Volumn: 3.2", "B": "B. Average Price: 1.0, Total Volumn: 5.3", "C": "C. Average Price: 1.1, Total Volumn: 4.1", "D": "D. Average Price: 1.0, Total Volumn: 4.3", "Answer": "3"}, 
+    {"index": "05_T3_M_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Average Price: 1.0, Total Volumn: 5.3", "B": "B. Average Price: 1.2, Total Volumn: 3.2", "C": "C. Average Price: 1.1, Total Volumn: 4.1", "D": "D. Average Price: 1.0, Total Volumn: 4.3", "Answer": "3"}, 
+    {"index": "05_T3_H_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Average Price: 1.2, Total Volumn: 3.2", "B": "B. Average Price: 1.0, Total Volumn: 4.3", "C": "C. Average Price: 1.1, Total Volumn: 4.1", "D": "D. Average Price: 1.0, Total Volumn: 5.3", "Answer": "3"}, 
+    {"index": "05_T3_L_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Average Price: 1.2, Total Volumn: 4.5", "B": "B. Average Price: 1.1, Total Volumn: 4.2", "C": "C. Average Price: 1.2, Total Volumn: 2.8", "D": "D. Average Price: 1.2, Total Volumn: 3.2", "Answer": "2"}, 
+    {"index": "05_T3_M_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Average Price: 1.2, Total Volumn: 3.2", "B": "B. Average Price: 1.2, Total Volumn: 2.8", "C": "C. Average Price: 1.1, Total Volumn: 4.2", "D": "D. Average Price: 1.2, Total Volumn: 4.5", "Answer": "3"}, 
+    {"index": "05_T3_H_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Average Price: 1.1, Total Volumn: 4.2", "B": "B. Average Price: 1.2, Total Volumn: 3.2", "C": "C. Average Price: 1.2, Total Volumn: 2.8", "D": "D. Average Price: 1.2, Total Volumn: 4.5", "Answer": "1"}, 
+    {"index": "05_T3_L_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Average Price: 1.2, Total Volumn: 2.7", "B": "B. Average Price: 1.1, Total Volumn: 4.6", "C": "C. Average Price: 1.1, Total Volumn: 4.2", "D": "D. Average Price: 1.2, Total Volumn: 3.2", "Answer": "3"}, 
+    {"index": "05_T3_M_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Average Price: 1.2, Total Volumn: 3.2", "B": "B. Average Price: 1.1, Total Volumn: 4.6", "C": "C. Average Price: 1.1, Total Volumn: 4.2", "D": "D. Average Price: 1.2, Total Volumn: 2.7", "Answer": "3"}, 
+    {"index": "05_T3_H_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Average Price: 1.2, Total Volumn: 3.2", "B": "B. Average Price: 1.1, Total Volumn: 4.6", "C": "C. Average Price: 1.2, Total Volumn: 2.7", "D": "D. Average Price: 1.1, Total Volumn: 4.2", "Answer": "4"},
+    {"index": "06_T3_L_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Probability of HOME victory: 0.8, Probability of AWAY victory: 0.63", "B": "B. Probability of HOME victory: 0.63, Probability of AWAY victory: 0.37", "C": "C. Probability of HOME victory: 0.77, Probability of AWAY victory: 0.52", "D": "D. Probability of HOME victory: 0.51, Probability of AWAY victory: 0.24", "Answer": "2"}, 
+    {"index": "06_T3_M_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Probability of HOME victory: 0.77, Probability of AWAY victory: 0.52", "B": "B. Probability of HOME victory: 0.51, Probability of AWAY victory: 0.24", "C": "C. Probability of HOME victory: 0.8, Probability of AWAY victory: 0.63", "D": "D. Probability of HOME victory: 0.63, Probability of AWAY victory: 0.37", "Answer": "4"}, 
+    {"index": "06_T3_H_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Probability of HOME victory: 0.63, Probability of AWAY victory: 0.37", "B": "B. Probability of HOME victory: 0.8, Probability of AWAY victory: 0.63", "C": "C. Probability of HOME victory: 0.77, Probability of AWAY victory: 0.52", "D": "D. Probability of HOME victory: 0.51, Probability of AWAY victory: 0.24", "Answer": "1"}, 
+    {"index": "06_T3_L_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Probability of HOME victory: 0.48, Probability of AWAY victory: 0.23", "B": "B. Probability of HOME victory: 0.55, Probability of AWAY victory: 0.27", "C": "C. Probability of HOME victory: 0.63, Probability of AWAY victory: 0.37", "D": "D. Probability of HOME victory: 0.65, Probability of AWAY victory: 0.37", "Answer": "3"}, 
+    {"index": "06_T3_M_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Probability of HOME victory: 0.63, Probability of AWAY victory: 0.37", "B": "B. Probability of HOME victory: 0.55, Probability of AWAY victory: 0.27", "C": "C. Probability of HOME victory: 0.48, Probability of AWAY victory: 0.23", "D": "D. Probability of HOME victory: 0.65, Probability of AWAY victory: 0.37", "Answer": "1"}, 
+    {"index": "06_T3_H_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Probability of HOME victory: 0.48, Probability of AWAY victory: 0.23", "B": "B. Probability of HOME victory: 0.65, Probability of AWAY victory: 0.37", "C": "C. Probability of HOME victory: 0.55, Probability of AWAY victory: 0.27", "D": "D. Probability of HOME victory: 0.63, Probability of AWAY victory: 0.37", "Answer": "4"}, 
+    {"index": "06_T3_L_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Probability of HOME victory: 0.79, Probability of AWAY victory: 0.56", "B": "B. Probability of HOME victory: 0.8, Probability of AWAY victory: 0.59", "C": "C. Probability of HOME victory: 0.63, Probability of AWAY victory: 0.38", "D": "D. Probability of HOME victory: 0.46, Probability of AWAY victory: 0.23", "Answer": "3"}, 
+    {"index": "06_T3_M_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Probability of HOME victory: 0.63, Probability of AWAY victory: 0.38", "B": "B. Probability of HOME victory: 0.79, Probability of AWAY victory: 0.56", "C": "C. Probability of HOME victory: 0.46, Probability of AWAY victory: 0.23", "D": "D. Probability of HOME victory: 0.8, Probability of AWAY victory: 0.59", "Answer": "1"}, 
+    {"index": "06_T3_H_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Probability of HOME victory: 0.8, Probability of AWAY victory: 0.59", "B": "B. Probability of HOME victory: 0.63, Probability of AWAY victory: 0.38", "C": "C. Probability of HOME victory: 0.79, Probability of AWAY victory: 0.56", "D": "D. Probability of HOME victory: 0.46, Probability of AWAY victory: 0.23", "Answer": "2"},
+    {"index": "07_T3_L_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Humidity: 78.0, PM 2.5: 41.0", "B": "B. Humidity: 81.0, PM 2.5: 67.0", "C": "C. Humidity: 75.0, PM 2.5: 34.0", "D": "D. Humidity: 79.0, PM 2.5: 45.0", "Answer": "3"}, 
+    {"index": "07_T3_M_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Humidity: 81.0, PM 2.5: 67.0", "B": "B. Humidity: 75.0, PM 2.5: 34.0", "C": "C. Humidity: 79.0, PM 2.5: 45.0", "D": "D. Humidity: 78.0, PM 2.5: 41.0", "Answer": "2"}, 
+    {"index": "07_T3_H_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Humidity: 78.0, PM 2.5: 41.0", "B": "B. Humidity: 81.0, PM 2.5: 67.0", "C": "C. Humidity: 75.0, PM 2.5: 34.0", "D": "D. Humidity: 79.0, PM 2.5: 45.0", "Answer": "3"}, 
+    {"index": "07_T3_L_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Humidity: 73.0, PM 2.5: 31.0", "B": "B. Humidity: 65.0, PM 2.5: 17.0", "C": "C. Humidity: 77.0, PM 2.5: 18.0", "D": "D. Humidity: 69.0, PM 2.5: 20.0", "Answer": "1"}, 
+    {"index": "07_T3_M_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Humidity: 69.0, PM 2.5: 20.0", "B": "B. Humidity: 65.0, PM 2.5: 17.0", "C": "C. Humidity: 73.0, PM 2.5: 31.0", "D": "D. Humidity: 77.0, PM 2.5: 18.0", "Answer": "3"}, 
+    {"index": "07_T3_H_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Humidity: 73.0, PM 2.5: 31.0", "B": "B. Humidity: 77.0, PM 2.5: 18.0", "C": "C. Humidity: 69.0, PM 2.5: 20.0", "D": "D. Humidity: 65.0, PM 2.5: 17.0", "Answer": "1"}, 
+    {"index": "07_T3_L_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Humidity: 71.0, PM 2.5: 37.0", "B": "B. Humidity: 58.0, PM 2.5: 21.0", "C": "C. Humidity: 77.0, PM 2.5: 44.0", "D": "D. Humidity: 73.0, PM 2.5: 31.0", "Answer": "4"}, 
+    {"index": "07_T3_M_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Humidity: 58.0, PM 2.5: 21.0", "B": "B. Humidity: 73.0, PM 2.5: 31.0", "C": "C. Humidity: 77.0, PM 2.5: 44.0", "D": "D. Humidity: 71.0, PM 2.5: 37.0", "Answer": "2"}, 
+    {"index": "07_T3_H_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Humidity: 58.0, PM 2.5: 21.0", "B": "B. Humidity: 73.0, PM 2.5: 31.0", "C": "C. Humidity: 77.0, PM 2.5: 44.0", "D": "D. Humidity: 71.0, PM 2.5: 37.0", "Answer": "2"},
+    {"index": "16_T3_L_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Value of PM 10: 88.0, Value of CO_2: 1.0", "B": "B. Value of PM 10: 58.0, Value of CO_2: 0.83", "C": "C. Value of PM 10: 52.0, Value of CO_2: 0.77", "D": "D. Value of PM 10: 40.0, Value of CO_2: 0.7", "Answer": "1"}, 
+    {"index": "16_T3_M_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Value of PM 10: 58.0, Value of CO_2: 0.83", "B": "B. Value of PM 10: 88.0, Value of CO_2: 1.0", "C": "C. Value of PM 10: 40.0, Value of CO_2: 0.7", "D": "D. Value of PM 10: 52.0, Value of CO_2: 0.77", "Answer": "2"}, 
+    {"index": "16_T3_H_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Value of PM 10: 58.0, Value of CO_2: 0.83", "B": "B. Value of PM 10: 88.0, Value of CO_2: 1.0", "C": "C. Value of PM 10: 40.0, Value of CO_2: 0.7", "D": "D. Value of PM 10: 52.0, Value of CO_2: 0.77", "Answer": "2"}, 
+    {"index": "16_T3_L_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Value of PM 10: 85.0, Value of CO_2: 1.0", "B": "B. Value of PM 10: 200.0, Value of CO_2: 1.8", "C": "C. Value of PM 10: 150.0, Value of CO_2: 1.4", "D": "D. Value of PM 10: 90.0, Value of CO_2: 1.1", "Answer": "1"}, 
+    {"index": "16_T3_M_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Value of PM 10: 85.0, Value of CO_2: 1.0", "B": "B. Value of PM 10: 150.0, Value of CO_2: 1.4", "C": "C. Value of PM 10: 90.0, Value of CO_2: 1.1", "D": "D. Value of PM 10: 200.0, Value of CO_2: 1.8", "Answer": "1"}, 
+    {"index": "16_T3_H_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Value of PM 10: 200.0, Value of CO_2: 1.8", "B": "B. Value of PM 10: 150.0, Value of CO_2: 1.4", "C": "C. Value of PM 10: 90.0, Value of CO_2: 1.1", "D": "D. Value of PM 10: 85.0, Value of CO_2: 1.0", "Answer": "4"}, 
+    {"index": "16_T3_L_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Value of PM 10: 52.0, Value of CO_2: 0.89", "B": "B. Value of PM 10: 43.0, Value of CO_2: 0.84", "C": "C. Value of PM 10: 160.0, Value of CO_2: 1.5", "D": "D. Value of PM 10: 90.0, Value of CO_2: 1.1", "Answer": "4"}, 
+    {"index": "16_T3_M_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Value of PM 10: 43.0, Value of CO_2: 0.84", "B": "B. Value of PM 10: 90.0, Value of CO_2: 1.1", "C": "C. Value of PM 10: 160.0, Value of CO_2: 1.5", "D": "D. Value of PM 10: 52.0, Value of CO_2: 0.89", "Answer": "2"}, 
+    {"index": "16_T3_H_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Value of PM 10: 52.0, Value of CO_2: 0.89", "B": "B. Value of PM 10: 160.0, Value of CO_2: 1.5", "C": "C. Value of PM 10: 90.0, Value of CO_2: 1.1", "D": "D. Value of PM 10: 43.0, Value of CO_2: 0.84", "Answer": "3"},
+    {"index": "17_T3_L_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Reading Score: 87.0, Math Score: 88.0", "B": "B. Reading Score: 53.0, Math Score: 56.0", "C": "C. Reading Score: 65.0, Math Score: 66.0", "D": "D. Reading Score: 67.0, Math Score: 69.0", "Answer": "4"}, 
+    {"index": "17_T3_M_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Reading Score: 65.0, Math Score: 66.0", "B": "B. Reading Score: 67.0, Math Score: 69.0", "C": "C. Reading Score: 53.0, Math Score: 56.0", "D": "D. Reading Score: 87.0, Math Score: 88.0", "Answer": "2"}, 
+    {"index": "17_T3_H_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Reading Score: 87.0, Math Score: 88.0", "B": "B. Reading Score: 53.0, Math Score: 56.0", "C": "C. Reading Score: 65.0, Math Score: 66.0", "D": "D. Reading Score: 67.0, Math Score: 69.0", "Answer": "4"}, 
+    {"index": "17_T3_L_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Reading Score: 82.0, Math Score: 82.0", "B": "B. Reading Score: 73.0, Math Score: 74.0", "C": "C. Reading Score: 67.0, Math Score: 68.0", "D": "D. Reading Score: 77.0, Math Score: 78.0", "Answer": "3"}, 
+    {"index": "17_T3_M_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Reading Score: 67.0, Math Score: 68.0", "B": "B. Reading Score: 82.0, Math Score: 82.0", "C": "C. Reading Score: 73.0, Math Score: 74.0", "D": "D. Reading Score: 77.0, Math Score: 78.0", "Answer": "1"}, 
+    {"index": "17_T3_H_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Reading Score: 82.0, Math Score: 82.0", "B": "B. Reading Score: 77.0, Math Score: 78.0", "C": "C. Reading Score: 67.0, Math Score: 68.0", "D": "D. Reading Score: 73.0, Math Score: 74.0", "Answer": "3"}, 
+    {"index": "17_T3_L_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Reading Score: 68.0, Math Score: 69.0", "B": "B. Reading Score: 83.0, Math Score: 84.0", "C": "C. Reading Score: 87.0, Math Score: 87.0", "D": "D. Reading Score: 78.0, Math Score: 78.0", "Answer": "1"}, 
+    {"index": "17_T3_M_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Reading Score: 68.0, Math Score: 69.0", "B": "B. Reading Score: 87.0, Math Score: 87.0", "C": "C. Reading Score: 78.0, Math Score: 78.0", "D": "D. Reading Score: 83.0, Math Score: 84.0", "Answer": "1"}, 
+    {"index": "17_T3_H_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Reading Score: 83.0, Math Score: 84.0", "B": "B. Reading Score: 68.0, Math Score: 69.0", "C": "C. Reading Score: 78.0, Math Score: 78.0", "D": "D. Reading Score: 87.0, Math Score: 87.0", "Answer": "2"},
+    
+    {"index": "20_T3_L_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 24.0, Humidity: 27.0", "B": "B. Temperature: 21.0, Humidity: 41.0", "C": "C. Temperature: 15.0, Humidity: 70.0", "D": "D. Temperature: 22.0, Humidity: 33.0", "Answer": "2"}, 
+    {"index": "20_T3_M_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 21.0, Humidity: 41.0", "B": "B. Temperature: 22.0, Humidity: 33.0", "C": "C. Temperature: 24.0, Humidity: 27.0", "D": "D. Temperature: 15.0, Humidity: 70.0", "Answer": "1"}, 
+    {"index": "20_T3_H_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 22.0, Humidity: 33.0", "B": "B. Temperature: 21.0, Humidity: 41.0", "C": "C. Temperature: 24.0, Humidity: 27.0", "D": "D. Temperature: 15.0, Humidity: 70.0", "Answer": "2"}, 
+    {"index": "20_T3_L_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 23.0, Humidity: 29.0", "B": "B. Temperature: 19.0, Humidity: 46.0", "C": "C. Temperature: 13.0, Humidity: 70.0", "D": "D. Temperature: 21.0, Humidity: 36.0", "Answer": "2"}, 
+    {"index": "20_T3_M_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 19.0, Humidity: 46.0", "B": "B. Temperature: 21.0, Humidity: 36.0", "C": "C. Temperature: 13.0, Humidity: 70.0", "D": "D. Temperature: 23.0, Humidity: 29.0", "Answer": "1"}, 
+    {"index": "20_T3_H_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 13.0, Humidity: 70.0", "B": "B. Temperature: 23.0, Humidity: 29.0", "C": "C. Temperature: 21.0, Humidity: 36.0", "D": "D. Temperature: 19.0, Humidity: 46.0", "Answer": "4"}, 
+    {"index": "20_T3_L_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 13.0, Humidity: 76.0", "B": "B. Temperature: 21.0, Humidity: 35.0", "C": "C. Temperature: 19.0, Humidity: 44.0", "D": "D. Temperature: 18.0, Humidity: 47.0", "Answer": "3"}, 
+    {"index": "20_T3_M_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 19.0, Humidity: 44.0", "B": "B. Temperature: 18.0, Humidity: 47.0", "C": "C. Temperature: 21.0, Humidity: 35.0", "D": "D. Temperature: 13.0, Humidity: 76.0", "Answer": "1"}, 
+    {"index": "20_T3_H_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 18.0, Humidity: 47.0", "B": "B. Temperature: 19.0, Humidity: 44.0", "C": "C. Temperature: 13.0, Humidity: 76.0", "D": "D. Temperature: 21.0, Humidity: 35.0", "Answer": "2"},
+    
+    {"index": "23_T3_L_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 4100.0, Humidity: 470.0", "B": "B. Temperature: 11000.0, Humidity: 1100.0", "C": "C. Temperature: 7000.0, Humidity: 720.0", "D": "D. Temperature: 9700.0, Humidity: 940.0", "Answer": "3"}, 
+    {"index": "23_T3_M_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 7000.0, Humidity: 720.0", "B": "B. Temperature: 9700.0, Humidity: 940.0", "C": "C. Temperature: 11000.0, Humidity: 1100.0", "D": "D. Temperature: 4100.0, Humidity: 470.0", "Answer": "1"}, 
+    {"index": "23_T3_H_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 7000.0, Humidity: 720.0", "B": "B. Temperature: 4100.0, Humidity: 470.0", "C": "C. Temperature: 11000.0, Humidity: 1100.0", "D": "D. Temperature: 9700.0, Humidity: 940.0", "Answer": "1"}, 
+    {"index": "23_T3_L_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 4500.0, Humidity: 510.0", "B": "B. Temperature: 9700.0, Humidity: 1000.0", "C": "C. Temperature: 4200.0, Humidity: 480.0", "D": "D. Temperature: 6700.0, Humidity: 720.0", "Answer": "4"}, 
+    {"index": "23_T3_M_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 9700.0, Humidity: 1000.0", "B": "B. Temperature: 6700.0, Humidity: 720.0", "C": "C. Temperature: 4500.0, Humidity: 510.0", "D": "D. Temperature: 4200.0, Humidity: 480.0", "Answer": "2"}, 
+    {"index": "23_T3_H_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 4200.0, Humidity: 480.0", "B": "B. Temperature: 6700.0, Humidity: 720.0", "C": "C. Temperature: 9700.0, Humidity: 1000.0", "D": "D. Temperature: 4500.0, Humidity: 510.0", "Answer": "2"}, 
+    {"index": "23_T3_L_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 7600.0, Humidity: 790.0", "B": "B. Temperature: 6600.0, Humidity: 710.0", "C": "C. Temperature: 5200.0, Humidity: 570.0", "D": "D. Temperature: 6200.0, Humidity: 650.0", "Answer": "2"}, 
+    {"index": "23_T3_M_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 5200.0, Humidity: 570.0", "B": "B. Temperature: 6600.0, Humidity: 710.0", "C": "C. Temperature: 6200.0, Humidity: 650.0", "D": "D. Temperature: 7600.0, Humidity: 790.0", "Answer": "2"}, 
+    {"index": "23_T3_H_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 6200.0, Humidity: 650.0", "B": "B. Temperature: 7600.0, Humidity: 790.0", "C": "C. Temperature: 6600.0, Humidity: 710.0", "D": "D. Temperature: 5200.0, Humidity: 570.0", "Answer": "3"},
+    
+    {"index": "24_T3_L_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. White Rating: 1900.0, Black Rating: 1900.0", "B": "B. White Rating: 1700.0, Black Rating: 1700.0", "C": "C. White Rating: 1600.0, Black Rating: 1600.0", "D": "D. White Rating: 1800.0, Black Rating: 1800.0", "Answer": "3"}, 
+    {"index": "24_T3_M_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. White Rating: 1900.0, Black Rating: 1900.0", "B": "B. White Rating: 1800.0, Black Rating: 1800.0", "C": "C. White Rating: 1600.0, Black Rating: 1600.0", "D": "D. White Rating: 1700.0, Black Rating: 1700.0", "Answer": "3"}, 
+    {"index": "24_T3_H_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. White Rating: 1900.0, Black Rating: 1900.0", "B": "B. White Rating: 1800.0, Black Rating: 1800.0", "C": "C. White Rating: 1600.0, Black Rating: 1600.0", "D": "D. White Rating: 1700.0, Black Rating: 1700.0", "Answer": "3"}, 
+    {"index": "24_T3_L_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. White Rating: 1900.0, Black Rating: 1800.0", "B": "B. White Rating: 1600.0, Black Rating: 1600.0", "C": "C. White Rating: 1500.0, Black Rating: 1500.0", "D": "D. White Rating: 1200.0, Black Rating: 1200.0", "Answer": "2"}, 
+    {"index": "24_T3_M_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. White Rating: 1200.0, Black Rating: 1200.0", "B": "B. White Rating: 1900.0, Black Rating: 1800.0", "C": "C. White Rating: 1500.0, Black Rating: 1500.0", "D": "D. White Rating: 1600.0, Black Rating: 1600.0", "Answer": "4"}, 
+    {"index": "24_T3_H_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. White Rating: 1600.0, Black Rating: 1600.0", "B": "B. White Rating: 1200.0, Black Rating: 1200.0", "C": "C. White Rating: 1500.0, Black Rating: 1500.0", "D": "D. White Rating: 1900.0, Black Rating: 1800.0", "Answer": "1"}, 
+    {"index": "24_T3_L_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. White Rating: 1800.0, Black Rating: 1500.0", "B": "B. White Rating: 1600.0, Black Rating: 1600.0", "C": "C. White Rating: 1900.0, Black Rating: 1800.0", "D": "D. White Rating: 2000.0, Black Rating: 1900.0", "Answer": "2"}, 
+    {"index": "24_T3_M_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. White Rating: 1800.0, Black Rating: 1500.0", "B": "B. White Rating: 1900.0, Black Rating: 1800.0", "C": "C. White Rating: 2000.0, Black Rating: 1900.0", "D": "D. White Rating: 1600.0, Black Rating: 1600.0", "Answer": "4"}, 
+    {"index": "24_T3_H_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. White Rating: 2000.0, Black Rating: 1900.0", "B": "B. White Rating: 1600.0, Black Rating: 1600.0", "C": "C. White Rating: 1800.0, Black Rating: 1500.0", "D": "D. White Rating: 1900.0, Black Rating: 1800.0", "Answer": "2"},
+    
+    {"index": "25_T3_L_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Median Income: 5.0, Median House Value: 290000.0", "B": "B. Median Income: 5.2, Median House Value: 310000.0", "C": "C. Median Income: 5.1, Median House Value: 290000.0", "D": "D. Median Income: 3.7, Median House Value: 190000.0", "Answer": "4"}, 
+    {"index": "25_T3_M_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Median Income: 3.7, Median House Value: 190000.0", "B": "B. Median Income: 5.2, Median House Value: 310000.0", "C": "C. Median Income: 5.1, Median House Value: 290000.0", "D": "D. Median Income: 5.0, Median House Value: 290000.0", "Answer": "1"}, 
+    {"index": "25_T3_H_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Median Income: 3.7, Median House Value: 190000.0", "B": "B. Median Income: 5.2, Median House Value: 310000.0", "C": "C. Median Income: 5.0, Median House Value: 290000.0", "D": "D. Median Income: 5.1, Median House Value: 290000.0", "Answer": "1"}, 
+    {"index": "25_T3_L_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Median Income: 2.7, Median House Value: 100000.0", "B": "B. Median Income: 3.1, Median House Value: 130000.0", "C": "C. Median Income: 3.8, Median House Value: 170000.0", "D": "D. Median Income: 3.7, Median House Value: 190000.0", "Answer": "4"}, 
+    {"index": "25_T3_M_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Median Income: 2.7, Median House Value: 100000.0", "B": "B. Median Income: 3.1, Median House Value: 130000.0", "C": "C. Median Income: 3.8, Median House Value: 170000.0", "D": "D. Median Income: 3.7, Median House Value: 190000.0", "Answer": "4"}, 
+    {"index": "25_T3_H_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Median Income: 3.8, Median House Value: 170000.0", "B": "B. Median Income: 3.7, Median House Value: 190000.0", "C": "C. Median Income: 2.7, Median House Value: 100000.0", "D": "D. Median Income: 3.1, Median House Value: 130000.0", "Answer": "2"}, 
+    {"index": "25_T3_L_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Median Income: 3.0, Median House Value: 130000.0", "B": "B. Median Income: 3.6, Median House Value: 190000.0", "C": "C. Median Income: 4.4, Median House Value: 250000.0", "D": "D. Median Income: 2.8, Median House Value: 120000.0", "Answer": "2"}, 
+    {"index": "25_T3_M_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Median Income: 3.6, Median House Value: 190000.0", "B": "B. Median Income: 2.8, Median House Value: 120000.0", "C": "C. Median Income: 4.4, Median House Value: 250000.0", "D": "D. Median Income: 3.0, Median House Value: 130000.0", "Answer": "1"}, 
+    {"index": "25_T3_H_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Median Income: 3.6, Median House Value: 190000.0", "B": "B. Median Income: 4.4, Median House Value: 250000.0", "C": "C. Median Income: 3.0, Median House Value: 130000.0", "D": "D. Median Income: 2.8, Median House Value: 120000.0", "Answer": "1"},
+    {"index": "26_T3_L_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Monthly Charges: 35.0, Tenure: 3.7", "B": "B. Monthly Charges: 74.0, Tenure: 19.0", "C": "C. Monthly Charges: 38.0, Tenure: 8.1", "D": "D. Monthly Charges: 87.0, Tenure: 23.0", "Answer": "2"}, 
+    {"index": "26_T3_M_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Monthly Charges: 74.0, Tenure: 19.0", "B": "B. Monthly Charges: 35.0, Tenure: 3.7", "C": "C. Monthly Charges: 87.0, Tenure: 23.0", "D": "D. Monthly Charges: 38.0, Tenure: 8.1", "Answer": "1"}, 
+    {"index": "26_T3_H_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Monthly Charges: 35.0, Tenure: 3.7", "B": "B. Monthly Charges: 87.0, Tenure: 23.0", "C": "C. Monthly Charges: 38.0, Tenure: 8.1", "D": "D. Monthly Charges: 74.0, Tenure: 19.0", "Answer": "4"}, 
+    {"index": "26_T3_L_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Monthly Charges: 86.0, Tenure: 10.0", "B": "B. Monthly Charges: 88.0, Tenure: 23.0", "C": "C. Monthly Charges: 94.0, Tenure: 18.0", "D": "D. Monthly Charges: 75.0, Tenure: 20.0", "Answer": "4"}, 
+    {"index": "26_T3_M_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Monthly Charges: 86.0, Tenure: 10.0", "B": "B. Monthly Charges: 94.0, Tenure: 18.0", "C": "C. Monthly Charges: 75.0, Tenure: 20.0", "D": "D. Monthly Charges: 88.0, Tenure: 23.0", "Answer": "3"}, 
+    {"index": "26_T3_H_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Monthly Charges: 75.0, Tenure: 20.0", "B": "B. Monthly Charges: 86.0, Tenure: 10.0", "C": "C. Monthly Charges: 94.0, Tenure: 18.0", "D": "D. Monthly Charges: 88.0, Tenure: 23.0", "Answer": "1"}, 
+    {"index": "26_T3_L_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Monthly Charges: 95.0, Tenure: 45.0", "B": "B. Monthly Charges: 38.0, Tenure: 8.4", "C": "C. Monthly Charges: 75.0, Tenure: 18.0", "D": "D. Monthly Charges: 37.0, Tenure: 7.7", "Answer": "3"}, 
+    {"index": "26_T3_M_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Monthly Charges: 38.0, Tenure: 8.4", "B": "B. Monthly Charges: 95.0, Tenure: 45.0", "C": "C. Monthly Charges: 37.0, Tenure: 7.7", "D": "D. Monthly Charges: 75.0, Tenure: 18.0", "Answer": "4"}, 
+    {"index": "26_T3_H_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Monthly Charges: 75.0, Tenure: 18.0", "B": "B. Monthly Charges: 37.0, Tenure: 7.7", "C": "C. Monthly Charges: 38.0, Tenure: 8.4", "D": "D. Monthly Charges: 95.0, Tenure: 45.0", "Answer": "1"},
+    {"index": "28_T3_L_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Average Glucose Level: 86.0, Body Mass Index: 28.0", "B": "B. Average Glucose Level: 98.0, Body Mass Index: 29.0", "C": "C. Average Glucose Level: 120.0, Body Mass Index: 27.0", "D": "D. Average Glucose Level: 110.0, Body Mass Index: 27.0", "Answer": "2"}, 
+    {"index": "28_T3_M_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Average Glucose Level: 120.0, Body Mass Index: 27.0", "B": "B. Average Glucose Level: 98.0, Body Mass Index: 29.0", "C": "C. Average Glucose Level: 110.0, Body Mass Index: 27.0", "D": "D. Average Glucose Level: 86.0, Body Mass Index: 28.0", "Answer": "2"}, 
+    {"index": "28_T3_H_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Average Glucose Level: 110.0, Body Mass Index: 27.0", "B": "B. Average Glucose Level: 86.0, Body Mass Index: 28.0", "C": "C. Average Glucose Level: 120.0, Body Mass Index: 27.0", "D": "D. Average Glucose Level: 98.0, Body Mass Index: 29.0", "Answer": "4"}, 
+    {"index": "28_T3_L_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Average Glucose Level: 160.0, Body Mass Index: 27.0", "B": "B. Average Glucose Level: 110.0, Body Mass Index: 29.0", "C": "C. Average Glucose Level: 90.0, Body Mass Index: 29.0", "D": "D. Average Glucose Level: 77.0, Body Mass Index: 28.0", "Answer": "2"}, 
+    {"index": "28_T3_M_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Average Glucose Level: 77.0, Body Mass Index: 28.0", "B": "B. Average Glucose Level: 90.0, Body Mass Index: 29.0", "C": "C. Average Glucose Level: 160.0, Body Mass Index: 27.0", "D": "D. Average Glucose Level: 110.0, Body Mass Index: 29.0", "Answer": "4"}, 
+    {"index": "28_T3_H_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Average Glucose Level: 110.0, Body Mass Index: 29.0", "B": "B. Average Glucose Level: 77.0, Body Mass Index: 28.0", "C": "C. Average Glucose Level: 90.0, Body Mass Index: 29.0", "D": "D. Average Glucose Level: 160.0, Body Mass Index: 27.0", "Answer": "1"}, 
+    {"index": "28_T3_L_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Average Glucose Level: 97.0, Body Mass Index: 28.0", "B": "B. Average Glucose Level: 89.0, Body Mass Index: 28.0", "C": "C. Average Glucose Level: 110.0, Body Mass Index: 27.0", "D": "D. Average Glucose Level: 100.0, Body Mass Index: 28.0", "Answer": "4"}, 
+    {"index": "28_T3_M_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Average Glucose Level: 89.0, Body Mass Index: 28.0", "B": "B. Average Glucose Level: 110.0, Body Mass Index: 27.0", "C": "C. Average Glucose Level: 100.0, Body Mass Index: 28.0", "D": "D. Average Glucose Level: 97.0, Body Mass Index: 28.0", "Answer": "3"}, 
+    {"index": "28_T3_H_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Average Glucose Level: 89.0, Body Mass Index: 28.0", "B": "B. Average Glucose Level: 110.0, Body Mass Index: 27.0", "C": "C. Average Glucose Level: 100.0, Body Mass Index: 28.0", "D": "D. Average Glucose Level: 97.0, Body Mass Index: 28.0", "Answer": "3"},
+    {"index": "29_T3_L_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Income: 66.0, Mortgage: 140.0", "B": "B. Income: 59.0, Mortgage: 110.0", "C": "C. Income: 78.0, Mortgage: 190.0", "D": "D. Income: 61.0, Mortgage: 120.0", "Answer": "3"}, 
+    {"index": "29_T3_M_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Income: 78.0, Mortgage: 190.0", "B": "B. Income: 61.0, Mortgage: 120.0", "C": "C. Income: 66.0, Mortgage: 140.0", "D": "D. Income: 59.0, Mortgage: 110.0", "Answer": "1"}, 
+    {"index": "29_T3_H_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Income: 66.0, Mortgage: 140.0", "B": "B. Income: 61.0, Mortgage: 120.0", "C": "C. Income: 78.0, Mortgage: 190.0", "D": "D. Income: 59.0, Mortgage: 110.0", "Answer": "3"}, 
+    {"index": "29_T3_L_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Income: 71.0, Mortgage: 180.0", "B": "B. Income: 41.0, Mortgage: 110.0", "C": "C. Income: 46.0, Mortgage: 120.0", "D": "D. Income: 57.0, Mortgage: 140.0", "Answer": "1"}, 
+    {"index": "29_T3_M_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Income: 57.0, Mortgage: 140.0", "B": "B. Income: 46.0, Mortgage: 120.0", "C": "C. Income: 71.0, Mortgage: 180.0", "D": "D. Income: 41.0, Mortgage: 110.0", "Answer": "3"}, 
+    {"index": "29_T3_H_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Income: 57.0, Mortgage: 140.0", "B": "B. Income: 41.0, Mortgage: 110.0", "C": "C. Income: 46.0, Mortgage: 120.0", "D": "D. Income: 71.0, Mortgage: 180.0", "Answer": "4"}, 
+    {"index": "29_T3_L_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Income: 130.0, Mortgage: 340.0", "B": "B. Income: 82.0, Mortgage: 200.0", "C": "C. Income: 98.0, Mortgage: 240.0", "D": "D. Income: 75.0, Mortgage: 190.0", "Answer": "4"}, 
+    {"index": "29_T3_M_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Income: 98.0, Mortgage: 240.0", "B": "B. Income: 82.0, Mortgage: 200.0", "C": "C. Income: 130.0, Mortgage: 340.0", "D": "D. Income: 75.0, Mortgage: 190.0", "Answer": "4"}, 
+    {"index": "29_T3_H_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Income: 98.0, Mortgage: 240.0", "B": "B. Income: 75.0, Mortgage: 190.0", "C": "C. Income: 130.0, Mortgage: 340.0", "D": "D. Income: 82.0, Mortgage: 200.0", "Answer": "2"},
+    {"index": "30_T3_L_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 19.0, Humidity: 47.0", "B": "B. Temperature: 17.0, Humidity: 68.0", "C": "C. Temperature: 12.0, Humidity: 93.0", "D": "D. Temperature: 21.0, Humidity: 32.0", "Answer": "2"}, 
+    {"index": "30_T3_M_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 19.0, Humidity: 47.0", "B": "B. Temperature: 17.0, Humidity: 68.0", "C": "C. Temperature: 21.0, Humidity: 32.0", "D": "D. Temperature: 12.0, Humidity: 93.0", "Answer": "2"}, 
+    {"index": "30_T3_H_100", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 19.0, Humidity: 47.0", "B": "B. Temperature: 21.0, Humidity: 32.0", "C": "C. Temperature: 17.0, Humidity: 68.0", "D": "D. Temperature: 12.0, Humidity: 93.0", "Answer": "3"}, 
+    {"index": "30_T3_L_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 14.0, Humidity: 86.0", "B": "B. Temperature: 13.0, Humidity: 91.0", "C": "C. Temperature: 16.0, Humidity: 70.0", "D": "D. Temperature: 13.0, Humidity: 88.0", "Answer": "3"}, 
+    {"index": "30_T3_M_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 13.0, Humidity: 88.0", "B": "B. Temperature: 14.0, Humidity: 86.0", "C": "C. Temperature: 13.0, Humidity: 91.0", "D": "D. Temperature: 16.0, Humidity: 70.0", "Answer": "4"}, 
+    {"index": "30_T3_H_300", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 13.0, Humidity: 88.0", "B": "B. Temperature: 14.0, Humidity: 86.0", "C": "C. Temperature: 13.0, Humidity: 91.0", "D": "D. Temperature: 16.0, Humidity: 70.0", "Answer": "4"}, 
+    {"index": "30_T3_L_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 17.0, Humidity: 69.0", "B": "B. Temperature: 15.0, Humidity: 84.0", "C": "C. Temperature: 13.0, Humidity: 89.0", "D": "D. Temperature: 17.0, Humidity: 76.0", "Answer": "1"}, 
+    {"index": "30_T3_M_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 15.0, Humidity: 84.0", "B": "B. Temperature: 13.0, Humidity: 89.0", "C": "C. Temperature: 17.0, Humidity: 76.0", "D": "D. Temperature: 17.0, Humidity: 69.0", "Answer": "4"}, 
+    {"index": "30_T3_H_1k", "question": "Most of points in the plot are gathered around: ?", "A": "A. Temperature: 15.0, Humidity: 84.0", "B": "B. Temperature: 17.0, Humidity: 69.0", "C": "C. Temperature: 13.0, Humidity: 89.0", "D": "D. Temperature: 17.0, Humidity: 76.0", "Answer": "2"}
+
+
+]
+}
