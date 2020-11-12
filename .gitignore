@@ -1,3 +1,5 @@
 .DS_Store
 processed_data (npy)/.DS_Store
 raw_data (csv)/.DS_Store
+paticipant_answers/.DS_Store
+scatterplots (png)/.DS_Store
