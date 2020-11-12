@@ -7,3 +7,7 @@ A dataset for studying the effect of data size and pattern salience on general u
 - `./processed_data (npy)`: This folder includes the processed .npy files. Each file contains the two dimensions we extracted from the raw .csv files.
 
 - `./scatterplots (png)`: This folder includes all scatterplots we used for the experiment.
+
+- `./task.json`: This file contains the questions we designed for each scatterplot in `./scatterplots (png)`.
+
+- `./paticipant_answers`: This file includes the answers of all 54 participants in the experiment.
