@@ -2,7 +2,7 @@
 A dataset for studying the effect of data size and pattern salience on general users' comprehension of visualization, especially the efficiency and accuracy of intermediate-level scatterplot tasks.
 
 ## File Structure
-- `./material`: This folder includes all visualization examples we collected for the 18 subtypes.
+- `./material`: This folder includes all visualization examples (18 subtypes) we collected for the preliminary study.
 
 - `./paticipant_answers`: This folder includes the answers of all 54 participants in the experiment.
 
