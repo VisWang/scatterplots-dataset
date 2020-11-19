@@ -8,6 +8,8 @@ A dataset for studying the effect of data size and pattern salience on general u
 
 - `./scatterplots (png)`: This folder includes all scatterplots we used for the experiment.
 
+- `./paticipant_answers`: This folder includes the answers of all 54 participants in the experiment.
+
 - `./task.json`: This file contains the questions we designed for each scatterplot in `./scatterplots (png)`.
 
-- `./paticipant_answers`: This file includes the answers of all 54 participants in the experiment.
+- `./paper appendix.pdf`: This file contains the appendices (including the visualization examples used in the pilot study, the result of visualization difficulty of the pilot study, and the system interface of the formal experiment) of the paper.
