@@ -15,5 +15,3 @@ A dataset for studying the effect of data size and pattern salience on general u
   - `./preliminary material/task.json`: This file contains the questions we designed for each scatterplot in `./scatterplots (png)`.
 
 - `./preliminary material`: This folder contains all visualization examples (18 subtypes) we collected for the preliminary study.
-
-- `./paper appendix.pdf`: This file contains the appendices (including the visualization examples used in the pilot study, the result of visualization difficulty of the pilot study, and the system interface of the formal experiment) of the paper.
